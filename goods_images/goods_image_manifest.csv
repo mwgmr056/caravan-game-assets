@@ -151,9 +151,9 @@
 工芸品,鎌倉彫,Kamakura Bori (Carved Lacquerware),done,kamakura_bori.png,
 工芸品,蜀漆器,Shu Lacquerware,done,shu_lacquerware.png,
 工芸品,ヴェネツィアガラス,Venetian Glass (Murano),done,venetian_glass_murano.png,
-工芸品,ボヘミアガラス,Bohemian Glass,missing,,
-工芸品,螺鈿工芸品,Mother-of-Pearl Inlay Crafts,missing,,
-工芸品,京蒔絵,Kyo Maki-e Lacquerware,missing,,
+工芸品,ボヘミアガラス,Bohemian Glass,done,bohemian_glass.png,
+工芸品,螺鈿工芸品,Mother-of-Pearl Inlay Crafts,done,raden_mother_of_pearl.png,manual alpha patch applied (rembg segmentation gap)
+工芸品,京蒔絵,Kyo Maki-e Lacquerware,done,kyo_makie_lacquerware.png,
 工芸品,江華島花ござ（花席）,Ganghwado Woven Rush Mats,missing,,
 工芸品,広州象牙細工,Lingnan Ivory Crafts,missing,,
 工芸品,広州鼈甲細工,Lingnan Tortoiseshell,missing,,
