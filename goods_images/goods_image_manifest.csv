@@ -154,10 +154,10 @@
 工芸品,ボヘミアガラス,Bohemian Glass,done,bohemian_glass.png,
 工芸品,螺鈿工芸品,Mother-of-Pearl Inlay Crafts,done,raden_mother_of_pearl.png,manual alpha patch applied (rembg segmentation gap)
 工芸品,京蒔絵,Kyo Maki-e Lacquerware,done,kyo_makie_lacquerware.png,
-工芸品,江華島花ござ（花席）,Ganghwado Woven Rush Mats,missing,,
-工芸品,広州象牙細工,Lingnan Ivory Crafts,missing,,
-工芸品,広州鼈甲細工,Lingnan Tortoiseshell,missing,,
-工芸品,四川竹工芸品,Sichuan Bamboo Crafts,missing,,
+工芸品,江華島花ござ（花席）,Ganghwado Woven Rush Mats,done,ganghwado_woven_mats.png,
+工芸品,広州象牙細工,Lingnan Ivory Crafts,done,lingnan_ivory_crafts.png,manual alpha patch applied (rembg partial-transparency gap in lattice hole)
+工芸品,広州鼈甲細工,Lingnan Tortoiseshell,done,lingnan_tortoiseshell.png,
+工芸品,四川竹工芸品,Sichuan Bamboo Crafts,done,sichuan_bamboo_crafts.png,
 工芸品,福州漆器,Fuzhou Lacquerware,missing,,
 工芸品,揚州漆器・象嵌,Yangzhou Lacquerware,missing,,
 工芸品,揚州銅鏡,Yangzhou Bronze Mirrors,missing,,
