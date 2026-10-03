@@ -174,8 +174,8 @@
 工芸品,アレクサンドリア・ガラス,Alexandria Glassware,done,alexandria_glassware.png,elevated fringe% false positive (vivid millefiori cane colors)
 工芸品,スイス木彫・木工品,Swiss Woodcrafts,done,swiss_woodcrafts.png,
 工芸品,ロレーヌガラス,Lorraine Glassware,done,lorraine_glassware.png,
-工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork & Toys,missing,,
-工芸品,ベニン銅器・象牙,Benin Bronzes & Ivory,missing,,
+工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork & Toys,done,nuremberg_metalwork_toys.png,
+工芸品,ベニン銅器・象牙,Benin Bronzes & Ivory,done,benin_bronzes_ivory.png,elevated fringe% false positive (coral-red bead material blends with red check bg)
 工芸品,スワヒリ象牙,Swahili Ivory,missing,,
 工芸品,セブ鼈甲・貝殻,Cebu Tortoiseshell & Shells,missing,,
 工芸品,パプア極楽鳥の羽,Bird-of-Paradise Feathers,missing,,
