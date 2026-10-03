@@ -165,8 +165,8 @@
 工芸品,チャンパ玳瑁,Champa Tortoiseshell,done,champa_tortoiseshell.png,
 工芸品,クメール蜜蝋,Khmer Beeswax,done,khmer_beeswax.png,elevated fringe% false positive (natural amber material saturation)
 工芸品,パガン漆器,Bagan Lacquerware,done,bagan_lacquerware.png,
-工芸品,スマトラ玳瑁,Sumatran Tortoiseshell,missing,,
-工芸品,大理銅器,Dali Bronze Ware,missing,,
+工芸品,スマトラ玳瑁,Sumatran Tortoiseshell,done,sumatran_tortoiseshell.png,"manual alpha patch applied (rembg partial-transparency gap in pierced openwork holes, using original raw alpha as ground truth)"
+工芸品,大理銅器,Dali Bronze Ware,done,dali_bronze_ware.png,
 工芸品,バグダード・ガラス器,Baghdad Glassware,missing,,
 工芸品,モスル象嵌銅器,Mosul Inlaid Brasswork,missing,,
 工芸品,アレッポ・ガラス器,Aleppo Glassware,missing,,
