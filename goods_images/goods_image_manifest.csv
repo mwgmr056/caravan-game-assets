@@ -201,12 +201,12 @@
 金属製品,死海の塩・鉱物,Dead Sea Salt & Minerals,done,dead_sea_salt_minerals.png,elevated fringe% false positive (translucent crystal edges)
 金属製品,シノペ銅製品・銅鉱石,Sinope Copperware & Copper Ore,done,sinope_copper_ore.png,
 金属製品,オーストリア鉄製品,Austrian Ironware,done,austrian_iron_goods.png,
-金属製品,バルセロナ兵器・鉄製品,Barcelona Weapons & Ironware,missing,,
-金属製品,スウェーデン鉄（ファールン銅）,Swedish Iron (Falun Copper),missing,,
-金属製品,コーンウォール錫,Cornwall Tin,missing,,
-金属製品,サヴォイア鉄器,Savoy Ironware,missing,,
-金属製品,ステイアーマルク鉄（スティーリア鉄）,Styrian Iron,missing,,
-金属製品,アストゥリアス（カンタブリア）鉄,Asturian (Cantabrian) Iron,missing,,
+金属製品,バルセロナ兵器・鉄製品,Barcelona Weapons & Ironware,done,barcelona_weapons_ironware.png,
+金属製品,スウェーデン鉄（ファールン銅）,Swedish Iron (Falun Copper),done,swedish_iron_copper.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly faded one iron bar tip into the background)"
+金属製品,コーンウォール錫,Cornwall Tin,done,cornish_tin.png,
+金属製品,サヴォイア鉄器,Savoy Ironware,done,savoy_ironware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced gray haze in the openwork scrollwork gaps)"
+金属製品,ステイアーマルク鉄（スティーリア鉄）,Styrian Iron,done,styrian_iron_axe.png,
+金属製品,アストゥリアス（カンタブリア）鉄,Asturian (Cantabrian) Iron,done,asturian_iron_billhook.png,
 金属製品,マリ金（サハラ金）,Mali Gold (Saharan Gold),missing,,
 金属製品,スワヒリ金,Swahili Gold,missing,,
 金属製品,タミル鉄器,Tamil Ironware,missing,,
