@@ -162,9 +162,9 @@
 工芸品,揚州漆器・象嵌,Yangzhou Lacquerware,done,yangzhou_lacquerware_inlay.png,
 工芸品,揚州銅鏡,Yangzhou Bronze Mirrors,done,yangzhou_bronze_mirrors.png,
 工芸品,安南漆製品,Annam Lacquerware,done,annam_lacquerware.png,
-工芸品,チャンパ玳瑁,Champa Tortoiseshell,missing,,
-工芸品,クメール蜜蝋,Khmer Beeswax,missing,,
-工芸品,パガン漆器,Bagan Lacquerware,missing,,
+工芸品,チャンパ玳瑁,Champa Tortoiseshell,done,champa_tortoiseshell.png,
+工芸品,クメール蜜蝋,Khmer Beeswax,done,khmer_beeswax.png,elevated fringe% false positive (natural amber material saturation)
+工芸品,パガン漆器,Bagan Lacquerware,done,bagan_lacquerware.png,
 工芸品,スマトラ玳瑁,Sumatran Tortoiseshell,missing,,
 工芸品,大理銅器,Dali Bronze Ware,missing,,
 工芸品,バグダード・ガラス器,Baghdad Glassware,missing,,
