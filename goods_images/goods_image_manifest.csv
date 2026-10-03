@@ -196,11 +196,11 @@
 金属製品,クチャ銅・鉱物,Kucha Copper & Minerals,done,kucha_copper_minerals.png,elevated fringe% false positive (natural copper/malachite ore coloration)
 金属製品,メルヴ鉄器・刀剣,Merv Ironware & Swords,done,merv_ironware_swords.png,
 金属製品,ニシャプール石膏・鉱物,Nishapur Gypsum & Minerals,done,nishapur_gypsum_minerals.png,
-金属製品,デリー甲冑,Delhi Armor,missing,,
-金属製品,ラホール武具・刀剣,Lahore Arms & Swords,missing,,
-金属製品,死海の塩・鉱物,Dead Sea Salt & Minerals,missing,,
-金属製品,シノペ銅製品・銅鉱石,Sinope Copperware & Copper Ore,missing,,
-金属製品,オーストリア鉄製品,Austrian Ironware,missing,,
+金属製品,デリー甲冑,Delhi Armor,done,delhi_armor_weapons.png,elevated fringe% false positive (polished mirror plates and chainmail reflecting red check background)
+金属製品,ラホール武具・刀剣,Lahore Arms & Swords,done,lahore_arms_swords.png,
+金属製品,死海の塩・鉱物,Dead Sea Salt & Minerals,done,dead_sea_salt_minerals.png,elevated fringe% false positive (translucent crystal edges)
+金属製品,シノペ銅製品・銅鉱石,Sinope Copperware & Copper Ore,done,sinope_copper_ore.png,
+金属製品,オーストリア鉄製品,Austrian Ironware,done,austrian_iron_goods.png,
 金属製品,バルセロナ兵器・鉄製品,Barcelona Weapons & Ironware,missing,,
 金属製品,スウェーデン鉄（ファールン銅）,Swedish Iron (Falun Copper),missing,,
 金属製品,コーンウォール錫,Cornwall Tin,missing,,
