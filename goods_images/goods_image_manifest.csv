@@ -176,9 +176,9 @@
 工芸品,ロレーヌガラス,Lorraine Glassware,done,lorraine_glassware.png,
 工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork & Toys,done,nuremberg_metalwork_toys.png,
 工芸品,ベニン銅器・象牙,Benin Bronzes & Ivory,done,benin_bronzes_ivory.png,elevated fringe% false positive (coral-red bead material blends with red check bg)
-工芸品,スワヒリ象牙,Swahili Ivory,missing,,
-工芸品,セブ鼈甲・貝殻,Cebu Tortoiseshell & Shells,missing,,
-工芸品,パプア極楽鳥の羽,Bird-of-Paradise Feathers,missing,,
-工芸品,琉球漆器,Ryukyu Lacquerware,missing,,
-工芸品,ヤクーツクマンモス象牙,Yakut Mammoth Ivory,missing,,
-工芸品,善闡府銅器,Shanchan Bronze Ware,missing,,
+工芸品,スワヒリ象牙,Swahili Ivory,done,swahili_ivory.png,
+工芸品,パプア極楽鳥の羽,Bird-of-Paradise Feathers,done,papua_bird_of_paradise_feathers.png,elevated fringe% false positive (saturated orange/crimson feather material)
+工芸品,琉球漆器,Ryukyu Lacquerware,done,ryukyu_lacquerware.png,
+工芸品,ヤクーツクマンモス象牙,Yakut Mammoth Ivory,done,yakut_mammoth_ivory.png,elevated fringe% false positive (warm ivory/amber tusk coloration)
+工芸品,善闡府銅器,Shanchan Bronze Ware,done,shanchan_bronze_ware.png,
+工芸品,セブ鼈甲・貝殻,Cebu Tortoiseshell & Shellwork,done,cebu_tortoiseshell_shellwork.png,"manual alpha patch applied (rembg partial-transparency gap behind tortoiseshell ribs, using original raw alpha as ground truth)"
