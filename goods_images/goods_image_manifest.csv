@@ -172,8 +172,8 @@
 工芸品,アレッポ・ガラス器,Aleppo Glassware,done,aleppo_glassware.png,
 工芸品,アンティオキア・ガラス,Antioch Glassware,done,antioch_glassware.png,"manual alpha patch applied (rembg partial-transparency gap in cage-cup lattice background, using original raw alpha as ground truth)"
 工芸品,アレクサンドリア・ガラス,Alexandria Glassware,done,alexandria_glassware.png,elevated fringe% false positive (vivid millefiori cane colors)
-工芸品,スイス木彫・木工品,Swiss Woodcrafts,missing,,
-工芸品,ロレーヌガラス,Lorraine Glassware,missing,,
+工芸品,スイス木彫・木工品,Swiss Woodcrafts,done,swiss_woodcrafts.png,
+工芸品,ロレーヌガラス,Lorraine Glassware,done,lorraine_glassware.png,
 工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork & Toys,missing,,
 工芸品,ベニン銅器・象牙,Benin Bronzes & Ivory,missing,,
 工芸品,スワヒリ象牙,Swahili Ivory,missing,,
