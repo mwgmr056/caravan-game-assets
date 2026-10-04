@@ -221,12 +221,12 @@
 香辛料・香料,セイロンシナモン,Ceylon Cinnamon,done,ceylon_cinnamon.png,"elevated fringe% (9.10%) is a false positive from the warm tan-brown cinnamon color matching the red-saturation heuristic, confirmed clean on visual check"
 香辛料・香料,ペルシア・サフラン,Persian Saffron,done,persian_saffron.png,"used raw image alpha channel directly, bypassing rembg (rembg faded some scattered saffron threads to near-transparent); verified with blue check background since object color is red/crimson"
 香辛料・香料,アレッポ石鹸,Aleppo Soap,done,aleppo_soap.png,
-香辛料・香料,クメール沈香・香木,Khmer Agarwood,missing,,
-香辛料・香料,カンボジア・カルダモン・胡椒,Cambodian Cardamom & Pepper,missing,,
-香辛料・香料,スマトラ龍脳,Sumatran Borneol,missing,,
-香辛料・香料,スマトラ沈香,Sumatran Agarwood,missing,,
-香辛料・香料,マラッカ中継香辛料,Malacca Spices (Pepper/Nutmeg),missing,,
-香辛料・香料,ブルネイ樟脳,Brunei Camphor,missing,,
+香辛料・香料,クメール沈香・香木,Khmer Agarwood,done,khmer_agarwood.png,
+香辛料・香料,カンボジア・カルダモン・胡椒,Cambodian Cardamom & Pepper,done,cambodia_cardamom_pepper.png,
+香辛料・香料,スマトラ龍脳,Sumatran Borneol,done,sumatra_borneol.png,
+香辛料・香料,スマトラ沈香,Sumatran Agarwood,done,sumatra_agarwood.png,
+香辛料・香料,マラッカ中継香辛料,Malacca Spices (Pepper/Nutmeg),done,malacca_spices.png,
+香辛料・香料,ブルネイ樟脳,Brunei Camphor,done,brunei_camphor.png,
 香辛料・香料,ニシャプール・サフラン,Nishapur Saffron,missing,,
 香辛料・香料,デリー香水・ローズウォーター,Delhi Perfumes & Rosewater,missing,,
 香辛料・香料,アタール（カナウジ香水）,Kannauj Attar Perfume (Kannauj),missing,,
