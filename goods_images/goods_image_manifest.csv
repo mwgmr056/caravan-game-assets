@@ -238,9 +238,9 @@
 香辛料・香料,バグダード香水,Baghdad Perfumes,done,baghdad_perfume.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red bleed-through on the clear glass bottle necks)"
 香辛料・香料,ダマスカス・ローズウォーター,Damascus Rosewater,done,damascus_rosewater.png,
 香辛料・香料,アレクサンドリア中継香辛料,Alexandria Spice Trade Goods,done,alexandria_spices.png,
-香辛料・香料,シーラーズ・ローズウォーター,Shiraz Rosewater,missing,,
-香辛料・香料,マルセイユ石鹸,Marseille Soap,missing,,
-香辛料・香料,プロヴァンス・サフラン,Provence Saffron,missing,,
+香辛料・香料,シーラーズ・ローズウォーター,Shiraz Rosewater,done,shiraz_rosewater.png,
+香辛料・香料,マルセイユ石鹸,Marseille Soap,done,marseille_soap.png,
+香辛料・香料,プロヴァンス・サフラン,Provence Saffron,done,provence_saffron.png,"used raw image alpha channel directly, bypassing rembg (rembg faded the lavender sprigs to near-transparent); verified with blue check background since object color is red/crimson"
 香辛料・香料,ソマリア乳香（フランキンセンス）,Somali Frankincense,missing,,
 香辛料・香料,ソマリア没薬（ミルラ）,Somali Myrrh,missing,,
 香辛料・香料,アデン中継香辛料・竜血樹,Aden Dragon's Blood & Spices,missing,,
