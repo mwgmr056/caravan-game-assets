@@ -265,8 +265,8 @@
 宝飾品,バルト海琥珀,Baltic Amber,done,baltic_amber.png,elevated fringe% false positive (saturated amber gold/orange tones); interior hole is natural driftwood knot hole
 宝飾品,ペルシア湾天然真珠,Persian Gulf Pearls,done,persian_gulf_pearls.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced small red color blotches on the nacre surface)"
 宝飾品,ホータン玉（軟玉）,Khotan Jade (Nephrite),done,khotan_jade.png,"clean, no issues"
-宝飾品,伊勢真珠,Ise Pearls,missing,,
-宝飾品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,missing,,
+宝飾品,伊勢真珠,Ise Pearls,done,ise_pearls.png,elevated fringe% false positive (red silk lining); verified clean on red and blue backgrounds
+宝飾品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,done,goryeo_ware.png,"interior holes are natural (handle loop, perforated incense burner lid, gap on tray)"
 宝飾品,慶州金冠・金細工,Gyeongju Gold Crowns & Jewelry,missing,,
 宝飾品,広州南珠,South Sea Pearls,missing,,
 宝飾品,南京金銀器,Nanjing Gold & Silver Ware,missing,,
