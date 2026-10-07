@@ -260,11 +260,11 @@
 宝飾品,ターコイズ（トルコ石）,Nishapur Turquoise,done,nishapur_turquoise.png,"clean, no issues"
 宝飾品,デカン・ダイヤモンド,Deccan Diamonds,done,deccan_diamonds.png,"clean, no issues"
 宝飾品,セイロン宝石,Ceylon Sapphires & Rubies,missing,,
-宝飾品,トレビゾンド銀,Trebizond Silver,missing,,
-宝飾品,ボヘミア銀,Bohemian Silver (Kutná Hora),missing,,
-宝飾品,バルト海琥珀,Baltic Amber,missing,,
-宝飾品,ペルシア湾天然真珠,Persian Gulf Pearls,missing,,
-宝飾品,ホータン玉（軟玉）,Khotan Jade (Nephrite),missing,,
+宝飾品,トレビゾンド銀,Trebizond Silver,done,trebizond_silver.png,"clean, no issues"
+宝飾品,ボヘミア銀,Bohemian Silver (Kutná Hora),done,bohemian_silver.png,clean; small natural gap near pouch strings
+宝飾品,バルト海琥珀,Baltic Amber,done,baltic_amber.png,elevated fringe% false positive (saturated amber gold/orange tones); interior hole is natural driftwood knot hole
+宝飾品,ペルシア湾天然真珠,Persian Gulf Pearls,done,persian_gulf_pearls.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced small red color blotches on the nacre surface)"
+宝飾品,ホータン玉（軟玉）,Khotan Jade (Nephrite),done,khotan_jade.png,"clean, no issues"
 宝飾品,伊勢真珠,Ise Pearls,missing,,
 宝飾品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,missing,,
 宝飾品,慶州金冠・金細工,Gyeongju Gold Crowns & Jewelry,missing,,
