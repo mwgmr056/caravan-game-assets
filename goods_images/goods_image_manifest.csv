@@ -275,8 +275,8 @@
 宝飾品,カラコルム銀器・金細工,Karakorum Silver & Gold Work,done,karakorum_ware.png,"clean, no issues"
 宝飾品,ビシュバリク玉・トルコ石,Uyghur Turquoise & Jade,done,uyghur_turquoise_jade.png,elevated fringe% false positive (saturated turquoise/red rug tones); clean
 宝飾品,マラッカ砂金,Malacca Placer Gold,done,malacca_gold.png,elevated fringe% false positive (saturated gold tones); clean
-宝飾品,ブルネイ真珠,Brunei Pearls,missing,,
-宝飾品,仏画顔料（ラピスラズリ等）,Buddhist Mineral Pigments,missing,,
+宝飾品,ブルネイ真珠,Brunei Pearls,done,brunei_pearls.png,"clean, no issues"
+宝飾品,仏画顔料（ラピスラズリ等）,Buddhist Mineral Pigments,done,buddhist_pigments.png,small interior holes are natural gaps between scattered pigment crumbs; verified clean on red and blue backgrounds
 宝飾品,大理銀,Dali Silver,missing,,
 宝飾品,雲南銅・銀,Yunnan Copper & Silver,missing,,
 宝飾品,サマルカンド銀器・ガラス器,Samarkand Silver & Glassware,missing,,
