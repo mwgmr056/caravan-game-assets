@@ -282,9 +282,9 @@
 宝飾品,サマルカンド銀器・ガラス器,Samarkand Silver & Glassware,done,samarkand_ware.png,interior hole is natural gap between pitcher handle and ewer spout
 宝飾品,ザルドジ（デリー金銀刺繡）,Zardozi Gold Embroidery,done,zardozi_embroidery.png,"clean, both red/blue bg checked (strong crimson velvet); 2 natural thread-loop gaps"
 宝飾品,デリー金銀器,Delhi Gold & Silverware,done,delhi_goldware.png,"clean, no issues"
-宝飾品,セイロン宝石（サファイア・ルビー）,Ceylon Sapphires & Rubies,done,ceylon_gems.png,elevated fringe% false positive (saturated ruby/sapphire tones); verified clean on red and blue backgrounds
-宝飾品,マンナール湾真珠,Gulf of Mannar Pearls,missing,,
-宝飾品,バスラ真珠（中継）,Basra Pearls,missing,,
+宝飾品,セイロン宝石（サファイア・ルビー）,Ceylon Sapphires & Rubies,done,ceylon_gems2.png,"clean, both red/blue bg checked; chain-link gaps natural"
+宝飾品,マンナール湾真珠,Gulf of Mannar Pearls,done,mannar_pearls.png,"clean, net mesh/rope loop gaps natural"
+宝飾品,バスラ真珠（中継）,Basra Pearls,done,basra_pearls.png,"clean, no issues"
 宝飾品,チュニス赤珊瑚,Tunis Red Coral,missing,,
 宝飾品,コンスタティノープル金銀象嵌細工,Byzantine Metalwork,missing,,
 宝飾品,フィレンツェ金貨（フローリン）,Florin Gold Coins,missing,,
