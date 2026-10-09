@@ -291,8 +291,8 @@
 宝飾品,セルビア銀・銅,Serbian Silver & Copper,done,serbian_silver_copper.png,"clean, no issues"
 宝飾品,ボスニア鉛・銀,Bosnian Lead & Silver,done,bosnian_lead_silver.png,"clean, no issues"
 宝飾品,トランシルヴァニア金・銀,Transylvanian Gold & Silver,done,transylvania_gold_silver.png,"clean, no issues"
-宝飾品,ポメラニア琥珀,Pomeranian Amber,missing,,
-宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,missing,,
+宝飾品,ポメラニア琥珀,Pomeranian Amber,done,pomerania_amber.png,"used raw image alpha channel directly, bypassing rembg (rembg left a faint ghosted net silhouette)"
+宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,done,konigsberg_amber.png,"clean, no issues"
 宝飾品,ザクセン銀・鉱物,Saxon Silver & Ore,missing,,
 宝飾品,アウクスブルク銀器・金融,Augsburg Silverware,missing,,
 宝飾品,チロル銀・銅,Tyrolean Silver & Copper,missing,,
