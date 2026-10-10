@@ -295,8 +295,8 @@
 宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,done,konigsberg_amber.png,"clean, no issues"
 宝飾品,ザクセン銀・鉱物,Saxon Silver & Ore,done,saxon_silver_ore.png,"clean, both red/blue bg checked (cobalt/bismuth minerals)"
 宝飾品,アウクスブルク銀器・金融,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface)"
-宝飾品,チロル銀・銅,Tyrolean Silver & Copper,missing,,
-宝飾品,カルニオラ水銀（イドリヤ）,Idrija Mercury,missing,,
+宝飾品,チロル銀・銅,Tyrolean Silver & Copper,done,tyrolean_silver_copper.png,"clean, no issues"
+宝飾品,カルニオラ水銀（イドリヤ）,Idrija Mercury,done,idrija_mercury.png,"clean, both red/blue bg checked (cinnabar ore)"
 宝飾品,アシャンティ金粉,Ashanti Gold Dust,missing,,
 宝飾品,エチオピア金・テフ,Ethiopian Gold & Teff,missing,,
 宝飾品,バレーン真珠,Bahrain Pearls,missing,,
