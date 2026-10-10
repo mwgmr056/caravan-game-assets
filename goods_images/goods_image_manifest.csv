@@ -299,13 +299,13 @@
 金属製品,カルニオラ水銀（イドリヤ）,Idrija Mercury,done,idrija_mercury.png,"clean, both red/blue bg checked (cinnabar ore)"
 金属製品,アシャンティ金粉,Ashanti Gold Dust,done,ashanti_gold_dust.png,"used raw image alpha channel directly, bypassing rembg (rembg left hazy semi-transparent patches around scattered dust)"
 金属製品,エチオピア金・テフ,Ethiopian Gold & Teff,done,ethiopian_gold_teff.png,"clean, no issues"
-宝飾品,バレーン真珠,Bahrain Pearls,missing,,
+宝飾品,バレーン真珠,Bahrain Pearls,done,bahrain_pearls.png,"clean, no issues; used raw alpha directly (native transparency already clean)"
 金属製品,モルディブカウリ貝（貝貨）,Maldivian Cowrie Shells,missing,,
-宝飾品,オリッサ銀細工・象牙,Orissa Silver Filigree,missing,,
-宝飾品,ゴールコンダ・ダイヤモンド,Golconda Diamonds,missing,,
+宝飾品,オリッサ銀細工・象牙,Orissa Silver Filigree,done,odisha_silver_ivory.png,elevated fringe% false positive (filigree silver + natural design holes); clean
+宝飾品,ゴールコンダ・ダイヤモンド,Golconda Diamonds,done,golconda_diamonds.png,elevated fringe%/interior holes false positive (diamond crystal facets + scale chain gaps); clean
 金属製品,マラッカ錫貨,Malacca Tin Coins,missing,,
-宝飾品,マニラ金・真珠,Manila Gold & Pearls,missing,,
-宝飾品,スル真珠,Sulu Pearls,missing,,
+宝飾品,マニラ金・真珠,Manila Gold & Pearls,done,manila_gold_pearls.png,"clean, no issues; elevated fringe% false positive (saturated gold pearl tones)"
+宝飾品,スル真珠,Sulu Pearls,done,sulu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps, shell gaps)"
 宝飾品,ウラル孔雀石（マラカイト）,Ural Malachite,missing,,
 金属製品,アルタイ金・銀,Altai Gold & Silver,missing,,
 宝飾品,タジク・ラピスラズリ,Badakhshan Lapis Lazuli,missing,,
