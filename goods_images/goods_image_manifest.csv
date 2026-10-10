@@ -310,9 +310,9 @@
 金属製品,アルタイ金・銀,Altai Gold & Silver,missing,,
 宝飾品,タジク・ラピスラズリ,Badakhshan Lapis Lazuli,done,tajik_lapis.png,"clean, no issues; elevated fringe% false positive (saturated blue/gold tones)"
 宝飾品,パミールルビー（バラスルビー）,Pamir Balas Rubies,done,pamir_ruby.png,"rembg u2netp fixed yellow fringe around bag opening; clean after fix, both red/blue bg checked"
-宝飾品,チベット翡翠・念珠,Tibetan Jade & Mala Beads,missing,,
+宝飾品,チベット翡翠・念珠,Tibetan Jade & Mala Beads,done,tibetan_jade_mala.png,"clean, no issues; interior holes natural (gaps between strand loops)"
 金属製品,スレデツ銀,Sredets Silver,missing,,
-宝飾品,ヴィリニュス琥珀,Vilnius Amber,missing,,
-宝飾品,アルジェ珊瑚,Algiers Coral,missing,,
+宝飾品,ヴィリニュス琥珀,Vilnius Amber,done,vilnius_amber.png,rembg u2netp fixed yellow fringe around pieces; clean after fix
+宝飾品,アルジェ珊瑚,Algiers Coral,done,algiers_coral.png,"rembg u2netp fixed yellow fringe around net/coral; clean after fix, both red/blue bg checked, coral pore holes natural"
 金属製品,サライ金銀細工,Sarai Gold & Silver Work,missing,,
 宝飾品,合浦真珠,Hepu Pearls,missing,,
