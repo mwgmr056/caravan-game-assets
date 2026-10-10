@@ -306,10 +306,10 @@
 金属製品,マラッカ錫貨,Malacca Tin Coins,missing,,
 宝飾品,マニラ金・真珠,Manila Gold & Pearls,done,manila_gold_pearls.png,"clean, no issues; elevated fringe% false positive (saturated gold pearl tones)"
 宝飾品,スル真珠,Sulu Pearls,done,sulu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps, shell gaps)"
-宝飾品,ウラル孔雀石（マラカイト）,Ural Malachite,missing,,
+宝飾品,ウラル孔雀石（マラカイト）,Ural Malachite,done,ural_malachite.png,"clean, no issues; confirmed stays in 宝飾品 (gem-value price tier, not metal tier)"
 金属製品,アルタイ金・銀,Altai Gold & Silver,missing,,
-宝飾品,タジク・ラピスラズリ,Badakhshan Lapis Lazuli,missing,,
-宝飾品,パミールルビー（バラスルビー）,Pamir Balas Rubies,missing,,
+宝飾品,タジク・ラピスラズリ,Badakhshan Lapis Lazuli,done,tajik_lapis.png,"clean, no issues; elevated fringe% false positive (saturated blue/gold tones)"
+宝飾品,パミールルビー（バラスルビー）,Pamir Balas Rubies,done,pamir_ruby.png,"rembg u2netp fixed yellow fringe around bag opening; clean after fix, both red/blue bg checked"
 宝飾品,チベット翡翠・念珠,Tibetan Jade & Mala Beads,missing,,
 金属製品,スレデツ銀,Sredets Silver,missing,,
 宝飾品,ヴィリニュス琥珀,Vilnius Amber,missing,,
