@@ -260,48 +260,48 @@
 宝飾品,ターコイズ（トルコ石）,Nishapur Turquoise,done,nishapur_turquoise.png,"clean, no issues"
 宝飾品,デカン・ダイヤモンド,Deccan Diamonds,done,deccan_diamonds.png,"clean, no issues"
 宝飾品,セイロン宝石,Ceylon Sapphires & Rubies,missing,,
-宝飾品,トレビゾンド銀,Trebizond Silver,done,trebizond_silver.png,"clean, no issues"
+金属製品,トレビゾンド銀,Trebizond Silver,done,trebizond_silver.png,"clean, no issues"
 金属製品,ボヘミア銀,Bohemian Silver (Kutná Hora),done,bohemian_silver.png,clean; small natural gap near pouch strings
 宝飾品,バルト海琥珀,Baltic Amber,done,baltic_amber.png,elevated fringe% false positive (saturated amber gold/orange tones); interior hole is natural driftwood knot hole
 宝飾品,ペルシア湾天然真珠,Persian Gulf Pearls,done,persian_gulf_pearls.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced small red color blotches on the nacre surface)"
 宝飾品,ホータン玉（軟玉）,Khotan Jade (Nephrite),done,khotan_jade.png,"clean, no issues"
 宝飾品,伊勢真珠,Ise Pearls,done,ise_pearls.png,elevated fringe% false positive (red silk lining); verified clean on red and blue backgrounds
-宝飾品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,done,goryeo_ware.png,"interior holes are natural (handle loop, perforated incense burner lid, gap on tray)"
-宝飾品,慶州金冠・金細工,Gyeongju Gold Crowns & Jewelry,done,gyeongju_crown.png,"used raw image alpha channel directly, bypassing rembg (rembg misidentified most of the gold crown as background, leaving only the stand)"
+金属製品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,done,goryeo_ware.png,"interior holes are natural (handle loop, perforated incense burner lid, gap on tray)"
+金属製品,慶州金冠・金細工,Gyeongju Gold Crowns & Jewelry,done,gyeongju_crown.png,"used raw image alpha channel directly, bypassing rembg (rembg misidentified most of the gold crown as background, leaving only the stand)"
 宝飾品,広州南珠,South Sea Pearls,done,south_sea_pearls.png,elevated fringe% false positive (golden pearl tones); clean
-宝飾品,南京金銀器,Nanjing Gold & Silver Ware,done,nanjing_ware.png,verified clean on red and blue backgrounds (red lacquer tray)
+金属製品,南京金銀器,Nanjing Gold & Silver Ware,done,nanjing_ware.png,verified clean on red and blue backgrounds (red lacquer tray)
 金属製品,四川の銀,Sichuan Silver,done,sichuan_silver.png,"clean, no issues"
 宝飾品,燕京玉細工・宝飾品,Yanjing Jade & Jewelry,done,yanjing_jade.png,"interior holes are natural (gaps between stand legs, carved center hole in pendant)"
-宝飾品,カラコルム銀器・金細工,Karakorum Silver & Gold Work,done,karakorum_ware.png,"clean, no issues"
+金属製品,カラコルム銀器・金細工,Karakorum Silver & Gold Work,done,karakorum_ware.png,"clean, no issues"
 宝飾品,ビシュバリク玉・トルコ石,Uyghur Turquoise & Jade,done,uyghur_turquoise_jade.png,elevated fringe% false positive (saturated turquoise/red rug tones); clean
 金属製品,マラッカ砂金,Malacca Placer Gold,done,malacca_gold.png,elevated fringe% false positive (saturated gold tones); clean
 宝飾品,ブルネイ真珠,Brunei Pearls,done,brunei_pearls.png,"clean, no issues"
 宝飾品,仏画顔料（ラピスラズリ等）,Buddhist Mineral Pigments,done,buddhist_pigments.png,small interior holes are natural gaps between scattered pigment crumbs; verified clean on red and blue backgrounds
-宝飾品,大理銀,Dali Silver,done,dali_silver.png,interior holes are natural gaps between crescent ornaments and chain tassels
+金属製品,大理銀,Dali Silver,done,dali_silver.png,interior holes are natural gaps between crescent ornaments and chain tassels
 金属製品,雲南銅・銀,Yunnan Copper & Silver,done,yunnan_copper_silver.png,"interior holes are natural (pot handle loops, gong stand frame gaps)"
-宝飾品,サマルカンド銀器・ガラス器,Samarkand Silver & Glassware,done,samarkand_ware.png,interior hole is natural gap between pitcher handle and ewer spout
-宝飾品,ザルドジ（デリー金銀刺繡）,Zardozi Gold Embroidery,done,zardozi_embroidery.png,"clean, both red/blue bg checked (strong crimson velvet); 2 natural thread-loop gaps"
-宝飾品,デリー金銀器,Delhi Gold & Silverware,done,delhi_goldware.png,"clean, no issues"
+金属製品,サマルカンド銀器・ガラス器,Samarkand Silver & Glassware,done,samarkand_ware.png,interior hole is natural gap between pitcher handle and ewer spout
+金属製品,ザルドジ（デリー金銀刺繡）,Zardozi Gold Embroidery,done,zardozi_embroidery.png,"clean, both red/blue bg checked (strong crimson velvet); 2 natural thread-loop gaps"
+金属製品,デリー金銀器,Delhi Gold & Silverware,done,delhi_goldware.png,"clean, no issues"
 宝飾品,セイロン宝石（サファイア・ルビー）,Ceylon Sapphires & Rubies,done,ceylon_gems2.png,"clean, both red/blue bg checked; chain-link gaps natural"
 宝飾品,マンナール湾真珠,Gulf of Mannar Pearls,done,mannar_pearls.png,"clean, net mesh/rope loop gaps natural"
 宝飾品,バスラ真珠（中継）,Basra Pearls,done,basra_pearls.png,"clean, no issues"
 宝飾品,チュニス赤珊瑚,Tunis Red Coral,done,tunis_coral.png,"clean, both red/blue bg checked (saturated red coral); pore holes/net gaps natural"
-宝飾品,コンスタティノープル金銀象嵌細工,Byzantine Metalwork,done,byzantine_metalwork.png,"clean, no issues"
-宝飾品,フィレンツェ金貨（フローリン）,Florin Gold Coins,done,florin_gold.png,"clean, drawstring loop natural"
+金属製品,コンスタティノープル金銀象嵌細工,Byzantine Metalwork,done,byzantine_metalwork.png,"clean, no issues"
+金属製品,フィレンツェ金貨（フローリン）,Florin Gold Coins,done,florin_gold.png,"clean, drawstring loop natural"
 金属製品,セルビア銀・銅,Serbian Silver & Copper,done,serbian_silver_copper.png,"clean, no issues"
 金属製品,ボスニア鉛・銀,Bosnian Lead & Silver,done,bosnian_lead_silver.png,"clean, no issues"
 金属製品,トランシルヴァニア金・銀,Transylvanian Gold & Silver,done,transylvania_gold_silver.png,"clean, no issues"
 宝飾品,ポメラニア琥珀,Pomeranian Amber,done,pomerania_amber.png,"used raw image alpha channel directly, bypassing rembg (rembg left a faint ghosted net silhouette)"
 宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,done,konigsberg_amber.png,"clean, no issues"
 金属製品,ザクセン銀・鉱物,Saxon Silver & Ore,done,saxon_silver_ore.png,"clean, both red/blue bg checked (cobalt/bismuth minerals)"
-宝飾品,アウクスブルク銀器・金融,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface)"
+金属製品,アウクスブルク銀器・金融,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface)"
 金属製品,チロル銀・銅,Tyrolean Silver & Copper,done,tyrolean_silver_copper.png,"clean, no issues"
 金属製品,カルニオラ水銀（イドリヤ）,Idrija Mercury,done,idrija_mercury.png,"clean, both red/blue bg checked (cinnabar ore)"
 金属製品,アシャンティ金粉,Ashanti Gold Dust,done,ashanti_gold_dust.png,"used raw image alpha channel directly, bypassing rembg (rembg left hazy semi-transparent patches around scattered dust)"
 金属製品,エチオピア金・テフ,Ethiopian Gold & Teff,done,ethiopian_gold_teff.png,"clean, no issues"
 宝飾品,バレーン真珠,Bahrain Pearls,done,bahrain_pearls.png,"clean, no issues; used raw alpha directly (native transparency already clean)"
 金属製品,モルディブカウリ貝（貝貨）,Maldivian Cowrie Shells,missing,,
-宝飾品,オリッサ銀細工・象牙,Orissa Silver Filigree,done,odisha_silver_ivory.png,elevated fringe% false positive (filigree silver + natural design holes); clean
+金属製品,オリッサ銀細工・象牙,Orissa Silver Filigree,done,odisha_silver_ivory.png,elevated fringe% false positive (filigree silver + natural design holes); clean
 宝飾品,ゴールコンダ・ダイヤモンド,Golconda Diamonds,done,golconda_diamonds.png,elevated fringe%/interior holes false positive (diamond crystal facets + scale chain gaps); clean
 金属製品,マラッカ錫貨,Malacca Tin Coins,missing,,
 宝飾品,マニラ金・真珠,Manila Gold & Pearls,done,manila_gold_pearls.png,"clean, no issues; elevated fringe% false positive (saturated gold pearl tones)"
@@ -314,5 +314,5 @@
 金属製品,スレデツ銀,Sredets Silver,missing,,
 宝飾品,ヴィリニュス琥珀,Vilnius Amber,missing,,
 宝飾品,アルジェ珊瑚,Algiers Coral,missing,,
-宝飾品,サライ金銀細工,Sarai Gold & Silver Work,missing,,
+金属製品,サライ金銀細工,Sarai Gold & Silver Work,missing,,
 宝飾品,合浦真珠,Hepu Pearls,missing,,
