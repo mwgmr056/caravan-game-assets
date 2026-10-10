@@ -293,8 +293,8 @@
 宝飾品,トランシルヴァニア金・銀,Transylvanian Gold & Silver,done,transylvania_gold_silver.png,"clean, no issues"
 宝飾品,ポメラニア琥珀,Pomeranian Amber,done,pomerania_amber.png,"used raw image alpha channel directly, bypassing rembg (rembg left a faint ghosted net silhouette)"
 宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,done,konigsberg_amber.png,"clean, no issues"
-宝飾品,ザクセン銀・鉱物,Saxon Silver & Ore,missing,,
-宝飾品,アウクスブルク銀器・金融,Augsburg Silverware,missing,,
+宝飾品,ザクセン銀・鉱物,Saxon Silver & Ore,done,saxon_silver_ore.png,"clean, both red/blue bg checked (cobalt/bismuth minerals)"
+宝飾品,アウクスブルク銀器・金融,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface)"
 宝飾品,チロル銀・銅,Tyrolean Silver & Copper,missing,,
 宝飾品,カルニオラ水銀（イドリヤ）,Idrija Mercury,missing,,
 宝飾品,アシャンティ金粉,Ashanti Gold Dust,missing,,
