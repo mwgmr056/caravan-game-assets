@@ -316,8 +316,8 @@
 宝飾品,アルジェ珊瑚,Algiers Coral,done,algiers_coral.png,"rembg u2netp fixed yellow fringe around net/coral; clean after fix, both red/blue bg checked, coral pore holes natural"
 金属製品,サライ金銀細工,Sarai Gold & Silver Work,missing,,
 宝飾品,合浦真珠,Hepu Pearls,done,hepu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps)"
-織物,西陣織（前身）,Nishijin Silk (Predecessor),missing,,
-織物,博多織,Hakata Ori Silk,missing,,
+織物,西陣織（前身）,Nishijin Silk (Predecessor),done,nishijin_brocade.png,"clean, no issues"
+織物,博多織,Hakata Ori Silk,done,hakata_ori.png,"clean, no issues; large interior gap is natural cord-loop opening"
 織物,江南絹織物（綾錦）,Jiangnan Damask & Brocade,missing,,
 織物,雲錦（前身）,Yunjin Silk (Predecessor),missing,,
 織物,蜀錦,Shu Brocade,missing,,
