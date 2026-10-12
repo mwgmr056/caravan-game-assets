@@ -318,7 +318,7 @@
 宝飾品,合浦真珠,Hepu Pearls,done,hepu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps)"
 織物,西陣織（前身）,Nishijin Silk (Predecessor),done,nishijin_brocade.png,"clean, no issues"
 織物,博多織,Hakata Ori Silk,done,hakata_ori.png,"clean, no issues; large interior gap is natural cord-loop opening"
-織物,江南絹織物（綾錦）,Jiangnan Damask & Brocade,missing,,
+織物,江南絹織物（綾錦）,Jiangnan Damask & Brocade,done,jiangnan_damask_brocade.png,"clean, no issues; fringe% false positive (saturated cloth/gold-thread edges); celadon rolled bolt on spool (differs from folded Nishijin/Hakata)"
 織物,雲錦（前身）,Yunjin Silk (Predecessor),missing,,
 織物,蜀錦,Shu Brocade,missing,,
 織物,モンゴル羊毛・フェルト,Mongolian Wool & Felt,missing,,
