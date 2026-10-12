@@ -323,7 +323,7 @@
 織物,蜀錦,Shu Brocade,done,shu_brocade.png,"clean, checked white bg; fringe% false positive (saturated red/blue/yellow); resized from 86% to 68% bbox; 3-panel fan with fringe + shuttle"
 織物,モンゴル羊毛・フェルト,Mongolian Wool & Felt,done,mongolian_wool_felt.png,"clean, checked blue/white bg; resized from 88% to 68% bbox; matte cream/gray/rust raw wool + felt stack + comb (sets wool/felt baseline)"
 織物,ウイグル綿花・綿織物,Uyghur Cotton & Textiles,done,uyghur_cotton_textiles.png,"clean, checked blue bg; resized from 78% to 68% bbox; cotton bolls + sacking bale + blue-striped cloth + spindle (sets cotton baseline)"
-織物,パシュミナ原毛・ヤク毛織物,Pashmina & Yak Wool Textiles,missing,,
+織物,パシュミナ原毛・ヤク毛織物,Pashmina & Yak Wool Textiles,done,pashmina_yak_wool.png,"clean, checked blue bg; resized from 79% to 68% bbox; dusty rose/slate-blue shawl over brown yak blanket roll"
 織物,カシュガル絨毯,Kashgar Carpets,missing,,
 織物,ブハラ絨毯,Bukhara Rugs,missing,,
 織物,ムスリン（極細綿布）,Muslin Fine Cotton,missing,,
