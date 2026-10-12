@@ -314,7 +314,7 @@
 金属製品,スレデツ銀,Sredets Silver,done,sredets_silver.png,"clean, no issues; interior holes are natural (chain loops, cross/chalice gaps)"
 宝飾品,ヴィリニュス琥珀,Vilnius Amber,done,vilnius_amber.png,rembg u2netp fixed yellow fringe around pieces; clean after fix
 宝飾品,アルジェ珊瑚,Algiers Coral,done,algiers_coral.png,"rembg u2netp fixed yellow fringe around net/coral; clean after fix, both red/blue bg checked, coral pore holes natural"
-金属製品,サライ金銀細工,Sarai Gold & Silver Work,missing,,
+金属製品,サライ金銀細工,Sarai Gold & Silver Work,done,sarai_gold_silver_work.png,clean on blue bg; fringe% false positive (saturated gold); resized from 98% to 68% bbox; wide belt so small vertical footprint; large interior gap natural (belt loop)
 宝飾品,合浦真珠,Hepu Pearls,done,hepu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps)"
 織物,西陣織（前身）,Nishijin Silk (Predecessor),done,nishijin_brocade.png,"clean, no issues"
 織物,博多織,Hakata Ori Silk,done,hakata_ori.png,"clean, no issues; large interior gap is natural cord-loop opening"
