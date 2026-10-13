@@ -327,7 +327,7 @@
 織物,カシュガル絨毯,Kashgar Carpets,done,kashgar_carpets.png,"clean, checked green bg; resized from 94% to 68% bbox; interior holes natural (tassel gaps); rolled carpet w/ beater comb (sets carpet baseline)"
 織物,ブハラ絨毯,Bukhara Rugs,done,bukhara_rugs.png,"clean, checked green bg; resized from 92% to 68% bbox; flat wine-red gul rug w/ folded corner; slightly more photoreal than other icons"
 織物,ムスリン（極細綿布）,Muslin Fine Cotton,done,muslin_fine_cotton.png,"clean, checked dark/parchment bg; bbox already ~69%; sheer ivory gauze on frame stand (sets thin-cotton baseline); interior holes natural"
-織物,タブリーズ絨毯,Tabriz Rugs & Carpets,missing,,
+織物,タブリーズ絨毯,Tabriz Rugs & Carpets,done,tabriz_rugs_carpets.png,"clean, checked green bg; resized from 99% to 68% bbox (raw fringe tip touched left edge by 3px, invisible after rescale); two stacked rugs w/ folded corner + yarn + knife"
 織物,モスリン織物,Mosul Muslin Fabric,missing,,
 織物,ダマスク織,Damask Fabric,missing,,
 織物,エジプト綿・麻布,Egyptian Cotton & Linen,missing,,
