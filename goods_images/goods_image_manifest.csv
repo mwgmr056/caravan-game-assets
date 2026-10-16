@@ -192,7 +192,7 @@
 金属製品,備前刀（備前長船）,Bizen Swords (Osafune),done,bizen_osafune_swords.png,
 金属製品,朝鮮鉄製品・兵器,Korean Ironware & Weapons,done,korean_iron_goods_weapons.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly removed the dark wooden haft against the flattened gray background)"
 金属製品,開封鉄器,Kaifeng Ironware,done,central_plains_ironware.png,
-金属製品,燕京武具・馬具,Yanjing Arms & Horse Tack,done,yanjing_weapons_harnesses.png,
+金属製品,燕京武具・馬具,Yanjing Arms & Horse Tack,done,yanjing_weapons_harnesses.png,"redone (v1 had only bridle, no arms): saddle+stirrup+recurve bow+quiver+curved saber; clean on blue bg; resized 79% to 68%"
 金属製品,クチャ銅・鉱物,Kucha Copper & Minerals,done,kucha_copper_minerals.png,elevated fringe% false positive (natural copper/malachite ore coloration)
 金属製品,メルヴ鉄器・刀剣,Merv Ironware & Swords,done,merv_ironware_swords.png,
 金属製品,ニシャプール石膏・鉱物,Nishapur Gypsum & Minerals,done,nishapur_gypsum_minerals.png,
