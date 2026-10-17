@@ -99,7 +99,7 @@
 皮革製品,平壌毛皮,Pyongyang Furs,done,pyongyang_furs.png,
 皮革製品,燕京毛皮,Northern Pelts & Leather,done,northern_pelts_leather.png,
 皮革製品,オノン毛皮（狐・狼・貂）,Onon Pelts & Furs,done,onon_pelts_furs.png,
-皮革製品,カシュガル馬・皮革,Kashgar Horses & Leather,done,kashgar_horses_leather.png,"redone (v1 had tack only, no horse): dapple-grey horse + tooled saddle + embroidered blanket + rolled hide; clean on blue bg; resized 86% to 68%"
+皮革製品,カシュガル馬・皮革,Kashgar Horses & Leather,done,kashgar_horses_leather.png,replaced again: GOODS category=皮革製品 weight 0.53 -> leather main. red-appliqued tall boots + embossed horse belt; clean on blue bg; resized 94% tall to 68%. (prior horse-main version rejected)
 皮革製品,安南水牛角・牛革,Annam Buffalo Horn & Leather,done,annam_buffalo_horn_leather.png,
 皮革製品,ブハラ革製品,Bukhara Leather Goods,done,bukhara_leather_goods.png,
 皮革製品,ブルガル革（高級なめし革）,Bulgar Leather,done,bulgar_leather_premium.png,
