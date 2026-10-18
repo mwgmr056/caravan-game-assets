@@ -2,83 +2,83 @@
 生体・家畜,南部馬,Nambu Horse,done,nambu_horse.png,
 生薬・薬草,高麗人参,Goryeo Ginseng,done,goryeo_ginseng.png,
 紙・書籍,高麗紙,Goryeo Paper,done,goryeo_paper.png,
-生体・家畜,モンゴル馬・牛,Mongolian Horses & Cattle,done,mongolian_horses_cattle.png,
-木材・石材,クメール黒檀・紫檀,Khmer Ebony & Rosewood,done,khmer_ebony_rosewood.png,
-生薬・薬草,冬虫夏草・チベット薬草,Cordyceps & Tibetan Herbs,done,cordyceps_tibetan_herbs.png,
+生体・家畜,モンゴル馬,Mongolian Horses,done,mongolian_horses_cattle.png,旧名: モンゴル馬・牛
+木材・石材,クメール黒檀,Khmer Ebony,done,khmer_ebony_rosewood.png,旧名: クメール黒檀・紫檀
+生薬・薬草,冬虫夏草,Cordyceps,done,cordyceps_tibetan_herbs.png,旧名: 冬虫夏草・チベット薬草
 木材・石材,大理石,Dali Marble,done,dali_marble.png,
 紙・書籍,サマルカンド紙（桑紙）,Samarkand Paper,done,samarkand_paper.png,
 染料,インディゴ（藍）,Indigo Dye,done,indigo_dye.png,
 紙・書籍,パリ手写本,Paris Illuminated Manuscripts,done,paris_illuminated_manuscripts.png,
-生体・家畜,アラブ・ペルシア馬,Arabian / Persian Horses,done,arabian_persian_horses.png,
+生体・家畜,アラブ馬,Arabian Horses,done,arabian_persian_horses.png,旧名: アラブ・ペルシア馬
 生薬・薬草,女真人参,Manchurian Ginseng,done,manchurian_ginseng.png,
-紙・書籍,京扇子・和紙,Kyoto Folding Fans & Paper,done,kyoto_fans_paper.png,
+紙・書籍,京扇子,Kyoto Folding Fans,done,kyoto_fans_paper.png,旧名: 京扇子・和紙
 その他,博多中継唐物,Hakata Tang/Goryeo Imported Goods,done,hakata_imported_goods.png,
-木材・石材,吉野杉・材木,Yoshino Cedar Timber,done,yoshino_cedar_timber.png,
+木材・石材,吉野杉,Yoshino Cedar,done,yoshino_cedar_timber.png,旧名: 吉野杉・材木
 紙・書籍,吉野手漉き和紙,Yoshino Handmade Paper,done,yoshino_handmade_paper.png,
 生薬・薬草,吉野修験道薬草,Yoshino Mountain Medicinal Herbs,done,yoshino_mountain_herbs.png,
 燃料,紀州備長炭（原型）,Kishu Charcoal (Predecessor),done,kishu_charcoal.png,
 木材・石材,紀州木材,Kishu Timber,done,kishu_timber.png,
 生薬・薬草,江華島高麗人参,Ganghwado Ginseng,done,ganghwado_ginseng.png,
-紙・書籍,杭州扇子・手漉き紙,Hangzhou Fans & Paper,done,hangzhou_fans_paper.png,
-紙・書籍,杭州書籍・木版印刷物,Hangzhou Woodblock Printed Books,done,hangzhou_woodblock_printed_books.png,
-紙・書籍,南京書籍・紙,Nanjing Books & Paper,done,nanjing_books_paper.png,
+紙・書籍,杭州扇子,Hangzhou Fans,done,hangzhou_fans_paper.png,旧名: 杭州扇子・手漉き紙
+紙・書籍,杭州書籍,Hangzhou Books,done,hangzhou_woodblock_printed_books.png,旧名: 杭州書籍・木版印刷物
+紙・書籍,南京書籍,Nanjing Books,done,nanjing_books_paper.png,旧名: 南京書籍・紙
 紙・書籍,交子用手漉き紙,Jiaozi Banknote Paper,done,jiaozi_banknote_paper.png,
-紙・書籍,西安拓本・石彫,Xi'an Rubbings & Stone Carvings,done,xi_an_rubbings_stone_carvings.png,
-紙・書籍,関中墨・筆,Guanzhong Ink & Brushes,done,guanzhong_ink_brushes.png,
+紙・書籍,西安拓本,Xi'an Rubbings,done,xi_an_rubbings_stone_carvings.png,旧名: 西安拓本・石彫
+紙・書籍,関中墨,Guanzhong Ink,done,guanzhong_ink_brushes.png,旧名: 関中墨・筆
 生薬・薬草,秦嶺山脈の薬草,Qinling Medicinal Herbs,done,qinling_medicinal_herbs.png,
-紙・書籍,開封書籍・版画,Kaifeng Books & Prints,done,kaifeng_books_prints.png,
+紙・書籍,開封書籍,Kaifeng Books,done,kaifeng_books_prints.png,旧名: 開封書籍・版画
 生薬・薬草,燕京薬草,Northern Medicinal Herbs,done,northern_medicinal_herbs.png,
-紙・書籍,福州竹製品・紙,Fuzhou Bamboo Goods & Paper,done,fuzhou_bamboo_goods_paper.png,
-木材・石材,明州造船材・船,Mingzhou Ships & Shipbuilding Timber,done,mingzhou_ships_shipbuilding_timber.png,
-生体・家畜,オノン馬・軍馬,Onon Warhorses,done,onon_warhorses.png,
-紙・書籍,敦煌手漉き紙・写本,Dunhuang Paper & Manuscripts,done,dunhuang_paper_manuscripts.png,
-生薬・薬草,チャンパ象牙・犀角,Champa Ivory & Rhinoceros Horn,done,champa_ivory_rhino_horn.png,
-宗教・美術品,ビルマ金箔・仏像,Burmese Gold Leaf & Buddha Statues,done,burmese_gold_leaf_buddha.png,
+紙・書籍,福州竹製品,Fuzhou Bamboo Goods,done,fuzhou_bamboo_goods_paper.png,旧名: 福州竹製品・紙
+木材・石材,明州造船材,Mingzhou Shipbuilding Timber,done,mingzhou_ships_shipbuilding_timber.png,旧名: 明州造船材・船
+生体・家畜,オノン軍馬,Onon Warhorses,done,onon_warhorses.png,旧名: オノン馬・軍馬
+紙・書籍,敦煌手漉き紙,Dunhuang Paper,done,dunhuang_paper_manuscripts.png,旧名: 敦煌手漉き紙・写本
+生薬・薬草,チャンパ象牙,Champa Ivory,done,champa_ivory_rhino_horn.png,旧名: チャンパ象牙・犀角
+宗教・美術品,ビルマ仏像,Burmese Buddha Statues,done,burmese_gold_leaf_buddha.png,旧名: ビルマ金箔・仏像
 木材・石材,ビルマ・チーク材,Burmese Teak Wood,done,burmese_teak_wood.png,
-木材・石材,アユタヤ・チーク材・蘇木,Ayutthaya Teak & Sappanwood,done,ayutthaya_teak_sappanwood.png,
+木材・石材,アユタヤ・チーク材,Ayutthaya Teak,done,ayutthaya_teak_sappanwood.png,旧名: アユタヤ・チーク材・蘇木
 木材・石材,蘇木（赤色染料木）,Sappanwood (Red Dye Wood),done,sappanwood_red_dye_wood.png,
 宗教・美術品,タンカ（チベット仏画）,Thangka (Tibetan Buddhist Painting),done,thangka_tibetan_painting.png,
 宗教・美術品,チベット金属製仏具,Tibetan Metal Ritual Implements,done,tibetan_ritual_implements.png,
-紙・書籍,チベット経典・手漉き紙,Tibetan Scriptures & Paper,done,tibetan_scriptures_paper.png,
+紙・書籍,チベット経典,Tibetan Scriptures,done,tibetan_scriptures_paper.png,旧名: チベット経典・手漉き紙
 宗教・美術品,サキャ銅製仏像,Sakya Bronze Statues,done,sakya_bronze_statues.png,
-生体・家畜,雲南馬（軍馬・隊商馬）,Yunnan Horses,done,yunnan_horses.png,
+生体・家畜,雲南馬,Yunnan Horses,done,yunnan_horses.png,旧名: 雲南馬（軍馬・隊商馬）
 生薬・薬草,雲南三七人参,Yunnan Sanqi Ginseng,done,yunnan_sanqi_ginseng.png,
 生体・家畜,メルヴ馬,Merv Horses,done,merv_horses.png,
-生薬・薬草,デカン白檀・香木,Deccan Sandalwood,done,deccan_sandalwood.png,
+生薬・薬草,デカン白檀,Deccan Sandalwood,done,deccan_sandalwood.png,旧名: デカン白檀・香木
 生体・家畜,セイロン象,Ceylon Elephants,done,ceylon_elephants.png,
-紙・書籍,バグダード手漉き紙・書籍写本,Baghdad Paper & Manuscripts,done,baghdad_paper_manuscripts.png,
+紙・書籍,バグダード手漉き紙,Baghdad Paper,done,baghdad_paper_manuscripts.png,旧名: バグダード手漉き紙・書籍写本
 燃料,モスル天然原油,Mosul Natural Petroleum,done,mosul_natural_petroleum.png,
 木材・石材,モースル大理石,Mosul Marble,done,mosul_marble.png,
-生薬・薬草,アンティオキア甘草・薬草,Antioch Licorice & Herbs,done,antioch_licorice_herbs.png,
-宗教・美術品,聖遺物・巡礼ロザリオ,Relics & Pilgrimage Rosaries,done,relics_pilgrimage_rosaries.png,
+生薬・薬草,アンティオキア甘草,Antioch Licorice,done,antioch_licorice_herbs.png,旧名: アンティオキア甘草・薬草
+宗教・美術品,巡礼ロザリオ,Pilgrimage Rosaries,done,relics_pilgrimage_rosaries.png,旧名: 聖遺物・巡礼ロザリオ
 紙・書籍,カイロ・パピルス工芸品,Cairo Papyrus Crafts,done,cairo_papyrus_crafts.png,
-宗教・美術品,イコン・聖遺物細工,Icons & Reliquaries,done,icons_reliquaries.png,
+宗教・美術品,イコン,Icons,done,icons_reliquaries.png,旧名: イコン・聖遺物細工
 木材・石材,ポンティクス松（造船材）,Pontic Pine Timber,done,pontic_pine_timber.png,
 木材・石材,コーカサス木材,Caucasian Timber,done,caucasian_timber.png,
 木材・石材,ヴェネツィア造船・ガレー船,Venetian Galleys,done,venetian_galleys.png,
 紙・書籍,ジェノヴァ紙,Genoese Paper,done,genoese_paper.png,
-宗教・美術品,ローマ巡礼土産・宗教工芸品,Rome Pilgrim Goods,done,rome_pilgrim_goods.png,
-木材・石材,ポーランド木材・松脂,Polish Timber & Pitch,done,polish_timber_pitch.png,
+宗教・美術品,ローマ宗教工芸品,Rome Religious Crafts,done,rome_pilgrim_goods.png,旧名: ローマ巡礼土産・宗教工芸品
+木材・石材,ポーランド木材,Polish Timber,done,polish_timber_pitch.png,旧名: ポーランド木材・松脂
 木材・石材,コルシカ木材,Corsican Timber,done,corsican_timber.png,
 木材・石材,ダルマチア石材,Dalmatian Stone,done,dalmatian_stone.png,
 木材・石材,アルバニア木材,Albanian Timber,done,albanian_timber.png,
-木材・石材,ダンツィヒ木材・木灰,Danzig Timber & Potash,done,danzig_timber_potash.png,
-木材・石材,リガ樽材・木灰,Riga Staves & Potash,done,riga_staves_potash.png,
-木材・石材,スウェーデン木材・タール,Swedish Timber & Tar,done,swedish_timber_tar.png,
+木材・石材,ダンツィヒ木材,Danzig Timber,done,danzig_timber_potash.png,旧名: ダンツィヒ木材・木灰
+木材・石材,リガ樽材,Riga Staves,done,riga_staves_potash.png,旧名: リガ樽材・木灰
+木材・石材,スウェーデン木材,Swedish Timber,done,swedish_timber_tar.png,旧名: スウェーデン木材・タール
 木材・石材,ノルウェー木材,Norwegian Timber,done,norwegian_timber.png,
 染料,トゥールーズ大青（ウォード染料）,Toulouse Woad Dye,done,toulouse_woad_dye.png,
-生体・家畜,フリースラント牛・馬,Friesian Cattle & Horses,done,friesian_cattle_horses.png,
-生体・家畜,アゾレス青草・甘藍,Azores Woad & Cattle,done,azores_woad_cattle.png,
-紙・書籍,トンブクトゥ写本・書籍,Timbuktu Manuscripts,done,timbuktu_manuscripts.png,
+生体・家畜,フリースラント馬,Friesian Horses,done,friesian_cattle_horses.png,旧名: フリースラント牛・馬
+生体・家畜,アゾレス青草,Azores Woad,done,azores_woad_cattle.png,旧名: アゾレス青草・甘藍
+紙・書籍,トンブクトゥ写本,Timbuktu Manuscripts,done,timbuktu_manuscripts.png,旧名: トンブクトゥ写本・書籍
 木材・石材,モザンビーク黒檀,Mozambique Ebony,done,mozambique_ebony.png,
-その他,サラワク天然ゴム・樹液,Sarawak Gutta-Percha,done,sarawak_gutta_percha.png,
+その他,サラワク天然ゴム,Sarawak Gutta-Percha,done,sarawak_gutta_percha.png,旧名: サラワク天然ゴム・樹液
 生薬・薬草,ティモール白檀,Timor Sandalwood,done,timor_sandalwood.png,
 生薬・薬草,琉球姜黄（ウコン）,Ryukyu Turmeric,done,ryukyu_turmeric.png,
-紙・書籍,ヘラート黄銅器・書籍,Herat Metalwork & Books,done,herat_metalwork_books.png,
-宗教・美術品,ネパール木彫・仏像,Nepalese Woodcarvings & Bronzes,done,nepalese_woodcarvings_bronzes.png,
+紙・書籍,ヘラート黄銅器,Herat Brassware,done,herat_metalwork_books.png,旧名: ヘラート黄銅器・書籍
+宗教・美術品,ネパール仏像,Nepalese Buddha Statues,done,nepalese_woodcarvings_bronzes.png,旧名: ネパール木彫・仏像
 紙・書籍,ネパール手漉き紙（ロクタ紙）,Nepalese Lokta Paper,done,nepalese_lokta_paper.png,
-生薬・薬草,甘粛当帰・薬草,Gansu Angelica & Herbs,done,gansu_angelica_herbs.png,
-木材・石材,海南沈香（海南黄花梨）,Hainan Agarwood & Rosewood,done,hainan_agarwood_rosewood.png,
+生薬・薬草,甘粛当帰,Gansu Angelica,done,gansu_angelica_herbs.png,旧名: 甘粛当帰・薬草
+木材・石材,海南沈香,Hainan Agarwood,done,hainan_agarwood_rosewood.png,旧名: 海南沈香（海南黄花梨）
 木材・石材,江西景徳鎮端渓硯（硯石）,Duan Inkstones,done,duan_inkstones.png,
 紙・書籍,徽州墨（徽墨）,Huizhou Inksticks,done,huizhou_inksticks.png,
 紙・書籍,徽州宣紙,Xuan Paper,done,xuan_paper.png,
@@ -90,64 +90,64 @@
 木材・石材,襄陽船材,Xiangyang Shipbuilding Timber,done,xiangyang_shipbuilding_timber.png,
 生体・家畜,ペスト牛,Pest Cattle,done,pest_cattle.png,
 生体・家畜,ペグー象,Pegu War Elephants,done,pegu_war_elephants.png,
-皮革製品,ノヴゴロド・クロテン毛皮,Novgorod Sable & Pelts,done,novgorod_sable_pelts.png,
+皮革製品,ノヴゴロド・クロテン毛皮,Novgorod Sable Pelts,done,novgorod_sable_pelts.png,旧名: ノヴゴロド・クロテン毛皮
 皮革製品,フェズ革（モロッコ革）,Fez Morocco Leather,done,fez_morocco_leather.png,
-皮革製品,アユタヤ鹿皮・水牛角,Ayutthaya Deer Hide & Buffalo Horn,done,ayutthaya_deer_hide_buffalo_horn.png,
+皮革製品,アユタヤ鹿皮,Ayutthaya Deer Hide,done,ayutthaya_deer_hide_buffalo_horn.png,旧名: アユタヤ鹿皮・水牛角
 皮革製品,ブルガル革,Bulgar Leather,done,bulgar_leather.png,
-皮革製品,奥州毛皮,Oshu Pelts & Furs,done,oshu_pelts_furs.png,
+皮革製品,奥州毛皮,Oshu Pelts,done,oshu_pelts_furs.png,旧名: 奥州毛皮
 皮革製品,相模の革製品,Sagami Leather Goods,done,sagami_leather_goods.png,
 皮革製品,平壌毛皮,Pyongyang Furs,done,pyongyang_furs.png,
-皮革製品,燕京毛皮,Northern Pelts & Leather,done,northern_pelts_leather.png,
-皮革製品,オノン毛皮（狐・狼・貂）,Onon Pelts & Furs,done,onon_pelts_furs.png,
-皮革製品,カシュガル馬・皮革,Kashgar Horses & Leather,done,kashgar_horses_leather.png,replaced again: GOODS category=皮革製品 weight 0.53 -> leather main. red-appliqued tall boots + embossed horse belt; clean on blue bg; resized 94% tall to 68%. (prior horse-main version rejected)
-皮革製品,安南水牛角・牛革,Annam Buffalo Horn & Leather,done,annam_buffalo_horn_leather.png,
+皮革製品,燕京毛皮,Yanjing Pelts,done,northern_pelts_leather.png,旧名: 燕京毛皮
+皮革製品,オノン毛皮,Onon Pelts,done,onon_pelts_furs.png,旧名: オノン毛皮（狐・狼・貂）
+皮革製品,カシュガル皮革,Kashgar Leather,done,kashgar_horses_leather.png,replaced again: GOODS category=皮革製品 weight 0.53 -> leather main. red-appliqued tall boots + embossed horse belt; clean on blue bg; resized 94% tall to 68%. (prior horse-main version rejected) | 旧名: カシュガル馬・皮革
+皮革製品,安南水牛角,Annam Buffalo Horn,done,annam_buffalo_horn_leather.png,旧名: 安南水牛角・牛革
 皮革製品,ブハラ革製品,Bukhara Leather Goods,done,bukhara_leather_goods.png,
-皮革製品,ブルガル革（高級なめし革）,Bulgar Leather,done,bulgar_leather_premium.png,
-皮革製品,ブルガール毛皮・クロテン,Bulgar Pelts & Sable,done,bulgar_pelts_sable.png,
+皮革製品,ブルガル高級革,Bulgar Premium Leather,done,bulgar_leather_premium.png,旧名: ブルガル革（高級なめし革）
+皮革製品,ブルガル毛皮,Bulgar Pelts,done,bulgar_pelts_sable.png,旧名: ブルガール毛皮・クロテン
 皮革製品,シンド革製品,Sindh Leather Goods,done,sindh_leather_goods.png,
 皮革製品,ヴィジャヤナガル皮革,Vijayanagara Leather Goods,done,vijayanagara_leather_goods.png,
-皮革製品,モルダヴィア牛・毛皮,Moldavian Cattle & Furs,done,moldavian_cattle_furs.png,
+皮革製品,モルダヴィア毛皮,Moldavian Furs,done,moldavian_cattle_furs.png,旧名: モルダヴィア牛・毛皮
 皮革製品,コルドバ革（コルドバン）,Cordovan Leather,done,cordovan_leather.png,
-皮革製品,台湾鹿皮・樟脳,Taiwanese Deer Hide & Camphor,done,taiwanese_deer_hide_camphor.png,
-皮革製品,蝦夷地タカの羽・熊皮,Ezo Falcon Feathers & Bear Pelts,done,ezo_falcon_feathers_bear_pelts.png,
+皮革製品,台湾鹿皮,Taiwanese Deer Hide,done,taiwanese_deer_hide_camphor.png,旧名: 台湾鹿皮・樟脳
+皮革製品,蝦夷地熊皮,Ezo Bear Pelts,done,ezo_falcon_feathers_bear_pelts.png,旧名: 蝦夷地タカの羽・熊皮
 皮革製品,サハリン・クロテン毛皮,Sakhalin Sable Furs,done,sakhalin_sable_furs.png,
 皮革製品,カムチャツカ狐毛皮,Kamchatka Fox Pelts,done,kamchatka_fox_pelts.png,
-皮革製品,シベリア・テン毛皮,Siberian Sable & Ermine,done,siberian_sable_ermine.png,
-皮革製品,遼寧人参・毛皮,Liaoning Ginseng & Furs,done,liaoning_ginseng_furs.png,
+皮革製品,シベリア・テン毛皮,Siberian Sable,done,siberian_sable_ermine.png,旧名: シベリア・テン毛皮
+皮革製品,遼寧毛皮,Liaoning Furs,done,liaoning_ginseng_furs.png,旧名: 遼寧人参・毛皮
 皮革製品,セウタ皮革,Ceuta Leather,done,ceuta_leather.png,
 皮革製品,トレムセン革製品,Tlemcen Leather Goods,done,tlemcen_leather_goods.png,
 皮革製品,サライ毛皮,Sarai Furs,done,sarai_furs.png,
 皮革製品,モスクワ毛皮,Moscow Furs,done,moscow_furs.png,
 皮革製品,ロストフ毛皮,Rostov Furs,done,rostov_furs.png,
 皮革製品,ヤロスラーヴリ革製品,Yaroslavl Leather Goods,done,yaroslavl_leather_goods.png,
-陶磁器,京焼・清水焼（前身）,Kyo Ware Ceramics,done,kyo_ware_ceramics.png,
+陶磁器,京焼（前身）,Kyo Ware Ceramics,done,kyo_ware_ceramics.png,旧名: 京焼・清水焼（前身）
 陶磁器,高麗青磁,Goryeo Celadon,done,goryeo_celadon.png,
 陶磁器,龍泉窯青磁,Longquan Celadon,done,longquan_celadon.png,
-陶磁器,唐三彩・古陶磁,Tang Sancai & Ancient Ceramics,done,tang_sancai_ancient_ceramics.png,
+陶磁器,唐三彩,Tang Sancai,done,tang_sancai_ancient_ceramics.png,旧名: 唐三彩・古陶磁
 陶磁器,官窯陶磁器,Official Kiln Ceramics,done,official_kiln_ceramics.png,
-陶磁器,昇龍白磁・青花陶磁器,Thang Long Porcelain,done,thang_long_porcelain.png,
+陶磁器,昇龍白磁,Thang Long White Porcelain,done,thang_long_porcelain.png,旧名: 昇龍白磁・青花陶磁器
 陶磁器,徳化窯白磁,Dehua White Porcelain,done,dehua_white_porcelain.png,
 陶磁器,サンカローク焼,Sankhalok Ceramic Ware,done,sankhalok_ceramic_ware.png,
 陶磁器,備前焼（古備前）,Bizen Ware Ceramics,done,bizen_ware_ceramics.png,
 陶磁器,広州石湾陶器,Guangzhou Ceramics,done,guangzhou_ceramics.png,
 陶磁器,景徳鎮青花白磁,Jingdezhen Blue & White Porcelain,done,jingdezhen_blue_white_porcelain.png,
-陶磁器,景徳鎮青磁・白磁,Jingdezhen Porcelains,done,jingdezhen_porcelains.png,
+陶磁器,景徳鎮青磁,Jingdezhen Celadon,done,jingdezhen_porcelains.png,旧名: 景徳鎮青磁・白磁
 陶磁器,サンカローク焼（スンコロク）,Sankhalok Ceramic Ware,done,sankhalok_covered_box.png,
-陶磁器,マラッカ中継絹・陶磁器,Malacca Silk & Porcelain,done,malacca_silk_porcelain.png,
+陶磁器,マラッカ中継陶磁器,Malacca Porcelain,done,malacca_silk_porcelain.png,旧名: マラッカ中継絹・陶磁器
 陶磁器,ニシャプール彩文陶器,Nishapur Painted Ceramics,done,nishapur_painted_ceramics.png,
-陶磁器,シンド釉薬陶器,Sindh Glazed Tiles & Pottery,done,sindh_glazed_tiles.png,
+陶磁器,シンド釉薬陶器,Sindh Glazed Pottery,done,sindh_glazed_tiles.png,旧名: シンド釉薬陶器
 陶磁器,バグダード緑釉陶器,Baghdad Green-Glazed Pottery,done,baghdad_green_glazed_pottery.png,
-陶磁器,カイロ・ガラス・陶器,Cairo Glass & Pottery,done,cairo_glass_pottery.png,
+陶磁器,カイロ陶器,Cairo Pottery,done,cairo_glass_pottery.png,旧名: カイロ・ガラス・陶器
 陶磁器,フェズ・モザイクタイル,Fez Zellige Tiles,done,fez_zellige_tiles.png,
 陶磁器,テヘラン彩文陶器,Tehran Glazed Ceramics,done,tehran_glazed_ceramics.png,
-陶磁器,マイセン陶磁器（前身・土器）,Meissen Pottery,done,meissen_pottery.png,
+陶磁器,マイセン陶器（前身）,Meissen Pottery,done,meissen_pottery.png,旧名: マイセン陶磁器（前身・土器）
 陶磁器,バレンシア陶器（ラスター彩）,Valencia Lusterware,done,valencia_lusterware.png,
 陶磁器,マヨルカ陶器（マジョリカ焼）,Majorca Ceramics,done,majorca_ceramics.png,
 陶磁器,湖南陶磁器（長沙窯）,Changsha Ware Ceramics,done,changsha_ware_ceramics.png,
 陶磁器,宜興紫砂壺,Yixing Zisha Teapots,done,yixing_zisha_teapots.png,
 陶磁器,ウルゲンチ陶器,Urgench Ceramics,done,urgench_ceramics.png,
 陶磁器,オトラル陶器,Otrar Ceramics,done,otrar_ceramics.png,
-工芸品,岩手漆・漆器,Iwate Lacquer & Lacquerware,done,iwate_lacquerware.png,
+工芸品,岩手漆器,Iwate Lacquerware,done,iwate_lacquerware.png,旧名: 岩手漆・漆器
 工芸品,鎌倉彫,Kamakura Bori (Carved Lacquerware),done,kamakura_bori.png,
 工芸品,蜀漆器,Shu Lacquerware,done,shu_lacquerware.png,
 工芸品,ヴェネツィアガラス,Venetian Glass (Murano),done,venetian_glass_murano.png,
@@ -159,7 +159,7 @@
 工芸品,広州鼈甲細工,Lingnan Tortoiseshell,done,lingnan_tortoiseshell.png,
 工芸品,四川竹工芸品,Sichuan Bamboo Crafts,done,sichuan_bamboo_crafts.png,
 工芸品,福州漆器,Fuzhou Lacquerware,done,fuzhou_lacquerware.png,
-工芸品,揚州漆器・象嵌,Yangzhou Lacquerware,done,yangzhou_lacquerware_inlay.png,
+工芸品,揚州漆器,Yangzhou Lacquerware,done,yangzhou_lacquerware_inlay.png,旧名: 揚州漆器・象嵌
 工芸品,揚州銅鏡,Yangzhou Bronze Mirrors,done,yangzhou_bronze_mirrors.png,
 工芸品,安南漆製品,Annam Lacquerware,done,annam_lacquerware.png,
 工芸品,チャンパ玳瑁,Champa Tortoiseshell,done,champa_tortoiseshell.png,
@@ -172,37 +172,37 @@
 工芸品,アレッポ・ガラス器,Aleppo Glassware,done,aleppo_glassware.png,
 工芸品,アンティオキア・ガラス,Antioch Glassware,done,antioch_glassware.png,"manual alpha patch applied (rembg partial-transparency gap in cage-cup lattice background, using original raw alpha as ground truth)"
 工芸品,アレクサンドリア・ガラス,Alexandria Glassware,done,alexandria_glassware.png,elevated fringe% false positive (vivid millefiori cane colors)
-工芸品,スイス木彫・木工品,Swiss Woodcrafts,done,swiss_woodcrafts.png,
+工芸品,スイス木彫,Swiss Woodcarvings,done,swiss_woodcrafts.png,旧名: スイス木彫・木工品
 工芸品,ロレーヌガラス,Lorraine Glassware,done,lorraine_glassware.png,
-工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork & Toys,done,nuremberg_metalwork_toys.png,
-工芸品,ベニン銅器・象牙,Benin Bronzes & Ivory,done,benin_bronzes_ivory.png,elevated fringe% false positive (coral-red bead material blends with red check bg)
+工芸品,ニュルンベルク精密金属器,Nuremberg Metalwork,done,nuremberg_metalwork_toys.png,旧名: ニュルンベルク精密金属器
+工芸品,ベニン銅器,Benin Bronzes,done,benin_bronzes_ivory.png,elevated fringe% false positive (coral-red bead material blends with red check bg) | 旧名: ベニン銅器・象牙
 工芸品,スワヒリ象牙,Swahili Ivory,done,swahili_ivory.png,
 工芸品,パプア極楽鳥の羽,Bird-of-Paradise Feathers,done,papua_bird_of_paradise_feathers.png,elevated fringe% false positive (saturated orange/crimson feather material)
 工芸品,琉球漆器,Ryukyu Lacquerware,done,ryukyu_lacquerware.png,
 工芸品,ヤクーツクマンモス象牙,Yakut Mammoth Ivory,done,yakut_mammoth_ivory.png,elevated fringe% false positive (warm ivory/amber tusk coloration)
 工芸品,善闡府銅器,Shanchan Bronze Ware,done,shanchan_bronze_ware.png,
-工芸品,セブ鼈甲・貝殻,Cebu Tortoiseshell & Shellwork,done,cebu_tortoiseshell_shellwork.png,"manual alpha patch applied (rembg partial-transparency gap behind tortoiseshell ribs, using original raw alpha as ground truth)"
+工芸品,セブ鼈甲,Cebu Tortoiseshell,done,cebu_tortoiseshell_shellwork.png,"manual alpha patch applied (rembg partial-transparency gap behind tortoiseshell ribs, using original raw alpha as ground truth) | 旧名: セブ鼈甲・貝殻"
 金属製品,ウーツ鋼,Wootz Steel,done,wootz_steel.png,
 金属製品,ダマスカス鋼,Damascus Steel,done,damascus_steel.png,
-金属製品,鎌倉鍛冶（刀剣・武具）,Kamakura Swordsmithing,done,kamakura_swords_arms.png,
+金属製品,鎌倉刀剣,Kamakura Swords,done,kamakura_swords_arms.png,旧名: 鎌倉鍛冶（刀剣・武具）
 金属製品,マレー半島の錫,Malay Peninsula Tin,done,malayan_tin.png,
-金属製品,ミラノ甲冑・武具,Milanese Armor & Arms,done,milanese_armor_weapons.png,
-金属製品,トレド鋼・刀剣,Toledo Steel & Swords,done,toledo_steel_swords.png,
+金属製品,ミラノ甲冑,Milanese Armor,done,milanese_armor_weapons.png,旧名: ミラノ甲冑・武具
+金属製品,トレド刀剣,Toledo Swords,done,toledo_steel_swords.png,旧名: トレド鋼・刀剣
 金属製品,備前福岡の鉄器,Bizen Fukuoka Ironware,done,bizen_fukuoka_ironware.png,
 金属製品,備前刀（備前長船）,Bizen Swords (Osafune),done,bizen_osafune_swords.png,
-金属製品,朝鮮鉄製品・兵器,Korean Ironware & Weapons,done,korean_iron_goods_weapons.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly removed the dark wooden haft against the flattened gray background)"
+金属製品,朝鮮鉄製品,Korean Ironware,done,korean_iron_goods_weapons.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly removed the dark wooden haft against the flattened gray background) | 旧名: 朝鮮鉄製品・兵器"
 金属製品,開封鉄器,Kaifeng Ironware,done,central_plains_ironware.png,
-金属製品,燕京武具・馬具,Yanjing Arms & Horse Tack,done,yanjing_weapons_harnesses.png,"redone (v1 had only bridle, no arms): saddle+stirrup+recurve bow+quiver+curved saber; clean on blue bg; resized 79% to 68%"
-金属製品,クチャ銅・鉱物,Kucha Copper & Minerals,done,kucha_copper_minerals.png,elevated fringe% false positive (natural copper/malachite ore coloration)
-金属製品,メルヴ鉄器・刀剣,Merv Ironware & Swords,done,merv_ironware_swords.png,
-金属製品,ニシャプール石膏・鉱物,Nishapur Gypsum & Minerals,done,nishapur_gypsum_minerals.png,
-金属製品,デリー甲冑,Delhi Armor,done,delhi_armor_weapons.png,elevated fringe% false positive (polished mirror plates and chainmail reflecting red check background)
-金属製品,ラホール武具・刀剣,Lahore Arms & Swords,done,lahore_arms_swords.png,"redone (v1 was European rapier, overlapped Toledo): Mughal talwar + dhal shield + katar; clean on blue bg; resized 87% to 68%"
-金属製品,死海の塩・鉱物,Dead Sea Salt & Minerals,done,dead_sea_salt_minerals.png,elevated fringe% false positive (translucent crystal edges)
-金属製品,シノペ銅製品・銅鉱石,Sinope Copperware & Copper Ore,done,sinope_copper_ore.png,
+金属製品,燕京武具,Yanjing Arms,done,yanjing_weapons_harnesses.png,"redone (v1 had only bridle, no arms): saddle+stirrup+recurve bow+quiver+curved saber; clean on blue bg; resized 79% to 68% | 旧名: 燕京武具・馬具"
+金属製品,クチャ銅,Kucha Copper,done,kucha_copper_minerals.png,elevated fringe% false positive (natural copper/malachite ore coloration) | 旧名: クチャ銅・鉱物
+金属製品,メルヴ鉄器,Merv Ironware,done,merv_ironware_swords.png,旧名: メルヴ鉄器・刀剣
+金属製品,ニシャプール石膏,Nishapur Gypsum,done,nishapur_gypsum_minerals.png,旧名: ニシャプール石膏・鉱物
+金属製品,デリー甲冑,Delhi Armor,done,delhi_armor_weapons.png,elevated fringe% false positive (polished mirror plates and chainmail reflecting red check background) | 旧名: デリー甲冑
+金属製品,ラホール刀剣,Lahore Swords,done,lahore_arms_swords.png,"redone (v1 was European rapier, overlapped Toledo): Mughal talwar + dhal shield + katar; clean on blue bg; resized 87% to 68% | 旧名: ラホール武具・刀剣"
+金属製品,死海の塩,Dead Sea Salt,done,dead_sea_salt_minerals.png,elevated fringe% false positive (translucent crystal edges) | 旧名: 死海の塩・鉱物
+金属製品,シノペ銅製品,Sinope Copperware,done,sinope_copper_ore.png,旧名: シノペ銅製品・銅鉱石
 金属製品,オーストリア鉄製品,Austrian Ironware,done,austrian_iron_goods.png,
-金属製品,バルセロナ兵器・鉄製品,Barcelona Weapons & Ironware,done,barcelona_weapons_ironware.png,
-金属製品,スウェーデン鉄（ファールン銅）,Swedish Iron (Falun Copper),done,swedish_iron_copper.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly faded one iron bar tip into the background)"
+金属製品,バルセロナ鉄製品,Barcelona Ironware,done,barcelona_weapons_ironware.png,旧名: バルセロナ兵器・鉄製品
+金属製品,スウェーデン鉄,Swedish Iron,done,swedish_iron_copper.png,"used raw image alpha channel directly, bypassing rembg (rembg incorrectly faded one iron bar tip into the background) | 旧名: スウェーデン鉄（ファールン銅）"
 金属製品,コーンウォール錫,Cornwall Tin,done,cornish_tin.png,
 金属製品,サヴォイア鉄器,Savoy Ironware,done,savoy_ironware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced gray haze in the openwork scrollwork gaps)"
 金属製品,ステイアーマルク鉄（スティーリア鉄）,Styrian Iron,done,styrian_iron_axe.png,
@@ -210,10 +210,10 @@
 金属製品,マリ金（サハラ金）,Mali Gold (Saharan Gold),done,mali_gold.png,"used raw image alpha channel directly, bypassing rembg (rembg removed the spilled gold nugget pile at the base of the bag)"
 金属製品,スワヒリ金,Swahili Gold,done,swahili_gold.png,"elevated fringe% (0.69%) is a false positive from gold reflections blending with red background, confirmed clean on visual check"
 金属製品,タミル鉄器,Tamil Ironware,done,tamil_ironware.png,
-金属製品,ウラル鉄・銅,Ural Iron & Copper,done,ural_iron_copper.png,
-金属製品,山西鉄器・鍋,Shanxi Ironware & Cookpots,done,shanxi_ironware_pot.png,
+金属製品,ウラル鉄,Ural Iron,done,ural_iron_copper.png,旧名: ウラル鉄・銅
+金属製品,山西鉄器,Shanxi Ironware,done,shanxi_ironware_pot.png,旧名: 山西鉄器・鍋
 金属製品,ゴール鉄鉱石,Ghor Iron Ore,done,ghor_iron_ore.png,
-香辛料・香料,広州沈香・龍脳,Nanhai Spices (Agarwood & Borneol),done,guangzhou_agarwood_borneol.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red blotches on the translucent borneol crystals)"
+香辛料・香料,広州沈香,Nanhai Agarwood,done,guangzhou_agarwood_borneol.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red blotches on the translucent borneol crystals) | 旧名: 広州沈香・龍脳"
 香辛料・香料,チャンパ沈香（伽羅）,Champa Agarwood (Calambac),done,champa_agarwood_kyara.png,
 香辛料・香料,スマトラ胡椒,Sumatran Pepper,done,sumatra_pepper.png,
 香辛料・香料,アタール（香水）,Kannauj Attar Perfume,done,attar_perfume.png,
@@ -221,19 +221,19 @@
 香辛料・香料,セイロンシナモン,Ceylon Cinnamon,done,ceylon_cinnamon.png,"elevated fringe% (9.10%) is a false positive from the warm tan-brown cinnamon color matching the red-saturation heuristic, confirmed clean on visual check"
 香辛料・香料,ペルシア・サフラン,Persian Saffron,done,persian_saffron.png,"used raw image alpha channel directly, bypassing rembg (rembg faded some scattered saffron threads to near-transparent); verified with blue check background since object color is red/crimson"
 香辛料・香料,アレッポ石鹸,Aleppo Soap,done,aleppo_soap.png,
-香辛料・香料,クメール沈香・香木,Khmer Agarwood,done,khmer_agarwood.png,
-香辛料・香料,カンボジア・カルダモン・胡椒,Cambodian Cardamom & Pepper,done,cambodia_cardamom_pepper.png,
+香辛料・香料,クメール沈香,Khmer Agarwood,done,khmer_agarwood.png,旧名: クメール沈香・香木
+香辛料・香料,カンボジア・カルダモン,Cambodian Cardamom,done,cambodia_cardamom_pepper.png,旧名: カンボジア・カルダモン・胡椒
 香辛料・香料,スマトラ龍脳,Sumatran Borneol,done,sumatra_borneol.png,
 香辛料・香料,スマトラ沈香,Sumatran Agarwood,done,sumatra_agarwood.png,
 香辛料・香料,マラッカ中継香辛料,Malacca Spices (Pepper/Nutmeg),done,malacca_spices.png,
 香辛料・香料,ブルネイ樟脳,Brunei Camphor,done,brunei_camphor.png,
 香辛料・香料,ニシャプール・サフラン,Nishapur Saffron,done,nishapur_saffron.png,
-香辛料・香料,デリー香水・ローズウォーター,Delhi Perfumes & Rosewater,done,delhi_perfume_rosewater.png,
+香辛料・香料,デリー香水,Delhi Perfumes,done,delhi_perfume_rosewater.png,旧名: デリー香水・ローズウォーター
 香辛料・香料,アタール（カナウジ香水）,Kannauj Attar Perfume (Kannauj),done,kannauj_attar.png,
 香辛料・香料,カナウジ・ローズウォーター,Kannauj Rosewater,done,kannauj_rosewater.png,
 香辛料・香料,カナウジ花卉製品,Kannauj Floral Products,done,kannauj_florals.png,
 香辛料・香料,カルカッタ（カリカット）黒胡椒,Calicut Black Pepper,done,calicut_pepper.png,
-香辛料・香料,ケーララ生姜・シナモン,Kerala Ginger & Cinnamon,done,kerala_ginger_cinnamon.png,
+香辛料・香料,ケーララ・シナモン,Kerala Cinnamon,done,kerala_ginger_cinnamon.png,旧名: ケーララ生姜・シナモン
 香辛料・香料,ケーララ・カルダモン,Kerala Cardamom,done,kerala_cardamom.png,
 香辛料・香料,バグダード香水,Baghdad Perfumes,done,baghdad_perfume.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red bleed-through on the clear glass bottle necks)"
 香辛料・香料,ダマスカス・ローズウォーター,Damascus Rosewater,done,damascus_rosewater.png,
@@ -243,74 +243,74 @@
 香辛料・香料,プロヴァンス・サフラン,Provence Saffron,done,provence_saffron.png,"used raw image alpha channel directly, bypassing rembg (rembg faded the lavender sprigs to near-transparent); verified with blue check background since object color is red/crimson"
 香辛料・香料,ソマリア乳香（フランキンセンス）,Somali Frankincense,done,somali_frankincense.png,fringe% false positive from natural translucent resin highlight/shading tones
 香辛料・香料,ソマリア没薬（ミルラ）,Somali Myrrh,done,somali_myrrh.png,
-香辛料・香料,アデン中継香辛料・竜血樹,Aden Dragon's Blood & Spices,done,aden_dragonsblood.png,
+香辛料・香料,アデン中継香辛料,Aden Spices,done,aden_dragonsblood.png,旧名: アデン中継香辛料・竜血樹
 香辛料・香料,オマーン乳香,Omani Frankincense,done,omani_frankincense.png,
 香辛料・香料,ペナン胡椒,Penang Pepper,done,penang_pepper.png,
-香辛料・香料,ジョホール龍脳・木材,Johor Camphor & Timber,done,johor_camphor_timber.png,
+香辛料・香料,ジョホール龍脳,Johor Camphor,done,johor_camphor_timber.png,旧名: ジョホール龍脳・木材
 香辛料・香料,マルク諸島丁子（クローブ）,Moluccan Cloves,done,moluccan_cloves.png,
-香辛料・香料,バンダ諸島肉豆冠（ナツメグ）,Banda Nutmeg & Mace,done,banda_nutmeg.png,
-香辛料・香料,アンボン香木・香辛料,Ambon Spices,done,ambon_spices.png,
+香辛料・香料,バンダ諸島肉豆冠,Banda Nutmeg,done,banda_nutmeg.png,旧名: バンダ諸島肉豆冠（ナツメグ）
+香辛料・香料,アンボン香辛料,Ambon Spices,done,ambon_spices.png,旧名: アンボン香木・香辛料
 香辛料・香料,カシミール・サフラン,Kashmir Saffron,done,kashmir_saffron.png,fringe% false positive from vivid purple/red flower petal colors
 香辛料・香料,西蔵（チベット）香,Tibetan Incense,done,tibetan_incense.png,
 香辛料・香料,四川花椒（ホアジャオ）,Sichuan Pepper,done,sichuan_pepper.png,
 香辛料・香料,広西桂皮（シナモン）,Guangxi Cinnamon / Cassia,done,guangxi_cassia.png,
 香辛料・香料,順化肉桂,Hue Cinnamon,done,hue_cinnamon.png,fringe% false positive from red tying string and warm cinnamon tones
 金属製品,平泉の砂金,Hiraizumi Placer Gold,done,hiraizumi_gold.png,fringe% false positive from saturated gold tones
-宝飾品,ビルマ・ルビー・翡翠,Burmese Rubies & Jade,done,burma_ruby_jade.png,interior holes are natural triangular gaps under scale chains/pans; verified clean on red and blue backgrounds (strong ruby red)
+宝飾品,ビルマ・ルビー,Burmese Rubies,done,burma_ruby_jade.png,interior holes are natural triangular gaps under scale chains/pans; verified clean on red and blue backgrounds (strong ruby red) | 旧名: ビルマ・ルビー・翡翠
 宝飾品,ターコイズ（トルコ石）,Nishapur Turquoise,done,nishapur_turquoise.png,"clean, no issues"
 宝飾品,デカン・ダイヤモンド,Deccan Diamonds,done,deccan_diamonds.png,"clean, no issues"
-宝飾品,セイロン宝石,Ceylon Sapphires & Rubies,done,ceylon_gems3.png,"clean, no issues; differentiated as rough uncut gems in panning tray (vs cut セイロン宝石（サファイア・ルビー）); both red/blue bg checked; mesh grid holes natural"
+宝飾品,セイロン宝石原石,Ceylon Rough Gems,done,ceylon_gems3.png,"clean, no issues; differentiated as rough uncut gems in panning tray (vs cut セイロン宝石（サファイア・ルビー）); both red/blue bg checked; mesh grid holes natural | 旧名: セイロン宝石"
 金属製品,トレビゾンド銀,Trebizond Silver,done,trebizond_silver.png,"clean, no issues"
 金属製品,ボヘミア銀,Bohemian Silver (Kutná Hora),done,bohemian_silver.png,clean; small natural gap near pouch strings
 宝飾品,バルト海琥珀,Baltic Amber,done,baltic_amber.png,elevated fringe% false positive (saturated amber gold/orange tones); interior hole is natural driftwood knot hole
 宝飾品,ペルシア湾天然真珠,Persian Gulf Pearls,done,persian_gulf_pearls.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced small red color blotches on the nacre surface)"
 宝飾品,ホータン玉（軟玉）,Khotan Jade (Nephrite),done,khotan_jade.png,"clean, no issues"
 宝飾品,伊勢真珠,Ise Pearls,done,ise_pearls.png,elevated fringe% false positive (red silk lining); verified clean on red and blue backgrounds
-金属製品,高麗銀器・銅器,Goryeo Silver & Bronze Ware,done,goryeo_ware.png,"interior holes are natural (handle loop, perforated incense burner lid, gap on tray)"
-金属製品,慶州金冠・金細工,Gyeongju Gold Crowns & Jewelry,done,gyeongju_crown.png,"used raw image alpha channel directly, bypassing rembg (rembg misidentified most of the gold crown as background, leaving only the stand)"
+金属製品,高麗銀器,Goryeo Silverware,done,goryeo_ware.png,"interior holes are natural (handle loop, perforated incense burner lid, gap on tray) | 旧名: 高麗銀器・銅器"
+金属製品,慶州金冠,Gyeongju Gold Crowns,done,gyeongju_crown.png,"used raw image alpha channel directly, bypassing rembg (rembg misidentified most of the gold crown as background, leaving only the stand) | 旧名: 慶州金冠・金細工"
 宝飾品,広州南珠,South Sea Pearls,done,south_sea_pearls.png,elevated fringe% false positive (golden pearl tones); clean
 金属製品,南京金銀器,Nanjing Gold & Silver Ware,done,nanjing_ware.png,verified clean on red and blue backgrounds (red lacquer tray)
 金属製品,四川の銀,Sichuan Silver,done,sichuan_silver.png,"clean, no issues"
-宝飾品,燕京玉細工・宝飾品,Yanjing Jade & Jewelry,done,yanjing_jade.png,"interior holes are natural (gaps between stand legs, carved center hole in pendant)"
-金属製品,カラコルム銀器・金細工,Karakorum Silver & Gold Work,done,karakorum_ware.png,"clean, no issues"
-宝飾品,ビシュバリク玉・トルコ石,Uyghur Turquoise & Jade,done,uyghur_turquoise_jade.png,elevated fringe% false positive (saturated turquoise/red rug tones); clean
+宝飾品,燕京玉細工,Yanjing Jade Work,done,yanjing_jade.png,"interior holes are natural (gaps between stand legs, carved center hole in pendant) | 旧名: 燕京玉細工・宝飾品"
+金属製品,カラコルム銀器,Karakorum Silverware,done,karakorum_ware.png,"clean, no issues | 旧名: カラコルム銀器・金細工"
+宝飾品,ビシュバリク玉,Uyghur Jade,done,uyghur_turquoise_jade.png,elevated fringe% false positive (saturated turquoise/red rug tones); clean | 旧名: ビシュバリク玉・トルコ石
 金属製品,マラッカ砂金,Malacca Placer Gold,done,malacca_gold.png,elevated fringe% false positive (saturated gold tones); clean
 宝飾品,ブルネイ真珠,Brunei Pearls,done,brunei_pearls.png,"clean, no issues"
 宝飾品,仏画顔料（ラピスラズリ等）,Buddhist Mineral Pigments,done,buddhist_pigments.png,small interior holes are natural gaps between scattered pigment crumbs; verified clean on red and blue backgrounds
 金属製品,大理銀,Dali Silver,done,dali_silver.png,interior holes are natural gaps between crescent ornaments and chain tassels
-金属製品,雲南銅・銀,Yunnan Copper & Silver,done,yunnan_copper_silver.png,"interior holes are natural (pot handle loops, gong stand frame gaps)"
-金属製品,サマルカンド銀器・ガラス器,Samarkand Silver & Glassware,done,samarkand_ware.png,interior hole is natural gap between pitcher handle and ewer spout
+金属製品,雲南銅,Yunnan Copper,done,yunnan_copper_silver.png,"interior holes are natural (pot handle loops, gong stand frame gaps) | 旧名: 雲南銅・銀"
+金属製品,サマルカンド銀器,Samarkand Silverware,done,samarkand_ware.png,interior hole is natural gap between pitcher handle and ewer spout | 旧名: サマルカンド銀器・ガラス器
 金属製品,ザルドジ（デリー金銀刺繡）,Zardozi Gold Embroidery,done,zardozi_embroidery.png,"clean, both red/blue bg checked (strong crimson velvet); 2 natural thread-loop gaps"
 金属製品,デリー金銀器,Delhi Gold & Silverware,done,delhi_goldware.png,"clean, no issues"
-宝飾品,セイロン宝石（サファイア・ルビー）,Ceylon Sapphires & Rubies,done,ceylon_gems2.png,"clean, both red/blue bg checked; chain-link gaps natural"
+宝飾品,セイロン宝石,Ceylon Gemstones,done,ceylon_gems2.png,"clean, both red/blue bg checked; chain-link gaps natural | 旧名: セイロン宝石（サファイア・ルビー）"
 宝飾品,マンナール湾真珠,Gulf of Mannar Pearls,done,mannar_pearls.png,"clean, net mesh/rope loop gaps natural"
 宝飾品,バスラ真珠（中継）,Basra Pearls,done,basra_pearls.png,"clean, no issues"
 宝飾品,チュニス赤珊瑚,Tunis Red Coral,done,tunis_coral.png,"clean, both red/blue bg checked (saturated red coral); pore holes/net gaps natural"
 金属製品,コンスタティノープル金銀象嵌細工,Byzantine Metalwork,done,byzantine_metalwork.png,"clean, no issues"
 金属製品,フィレンツェ金貨（フローリン）,Florin Gold Coins,done,florin_gold.png,"clean, drawstring loop natural"
-金属製品,セルビア銀・銅,Serbian Silver & Copper,done,serbian_silver_copper.png,"clean, no issues"
-金属製品,ボスニア鉛・銀,Bosnian Lead & Silver,done,bosnian_lead_silver.png,"clean, no issues"
-金属製品,トランシルヴァニア金・銀,Transylvanian Gold & Silver,done,transylvania_gold_silver.png,"clean, no issues"
+金属製品,セルビア銀,Serbian Silver,done,serbian_silver_copper.png,"clean, no issues | 旧名: セルビア銀・銅"
+金属製品,ボスニア銀,Bosnian Silver,done,bosnian_lead_silver.png,"clean, no issues | 旧名: ボスニア鉛・銀"
+金属製品,トランシルヴァニア金,Transylvanian Gold,done,transylvania_gold_silver.png,"clean, no issues | 旧名: トランシルヴァニア金・銀"
 宝飾品,ポメラニア琥珀,Pomeranian Amber,done,pomerania_amber.png,"used raw image alpha channel directly, bypassing rembg (rembg left a faint ghosted net silhouette)"
 宝飾品,ケーニヒスベルク琥珀,Königsberg Amber,done,konigsberg_amber.png,"clean, no issues"
-金属製品,ザクセン銀・鉱物,Saxon Silver & Ore,done,saxon_silver_ore.png,"clean, both red/blue bg checked (cobalt/bismuth minerals)"
-金属製品,アウクスブルク銀器・金融,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface)"
-金属製品,チロル銀・銅,Tyrolean Silver & Copper,done,tyrolean_silver_copper.png,"clean, no issues"
+金属製品,ザクセン銀,Saxon Silver,done,saxon_silver_ore.png,"clean, both red/blue bg checked (cobalt/bismuth minerals) | 旧名: ザクセン銀・鉱物"
+金属製品,アウクスブルク銀器,Augsburg Silverware,done,augsburg_silverware.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red speckle blotches on silver surface) | 旧名: アウクスブルク銀器・金融"
+金属製品,チロル銀,Tyrolean Silver,done,tyrolean_silver_copper.png,"clean, no issues | 旧名: チロル銀・銅"
 金属製品,カルニオラ水銀（イドリヤ）,Idrija Mercury,done,idrija_mercury.png,"clean, both red/blue bg checked (cinnabar ore)"
 金属製品,アシャンティ金粉,Ashanti Gold Dust,done,ashanti_gold_dust.png,"used raw image alpha channel directly, bypassing rembg (rembg left hazy semi-transparent patches around scattered dust)"
-金属製品,エチオピア金・テフ,Ethiopian Gold & Teff,done,ethiopian_gold_teff.png,"clean, no issues"
+金属製品,エチオピア金,Ethiopian Gold,done,ethiopian_gold_teff.png,"clean, no issues | 旧名: エチオピア金・テフ"
 宝飾品,バレーン真珠,Bahrain Pearls,done,bahrain_pearls.png,"clean, no issues; used raw alpha directly (native transparency already clean)"
 金属製品,モルディブカウリ貝（貝貨）,Maldivian Cowrie Shells,done,maldivian_cowrie_shells.png,"clean, no issues; fringe% false positive (warm cream/tan edges); resized from 80% to 68% bbox"
-金属製品,オリッサ銀細工・象牙,Orissa Silver Filigree,done,odisha_silver_ivory.png,elevated fringe% false positive (filigree silver + natural design holes); clean
+金属製品,オリッサ銀細工,Orissa Silver Filigree,done,odisha_silver_ivory.png,elevated fringe% false positive (filigree silver + natural design holes); clean | 旧名: オリッサ銀細工・象牙
 宝飾品,ゴールコンダ・ダイヤモンド,Golconda Diamonds,done,golconda_diamonds.png,elevated fringe%/interior holes false positive (diamond crystal facets + scale chain gaps); clean
 金属製品,マラッカ錫貨,Malacca Tin Coins,done,malacca_tin_coins.png,"clean, no issues; interior holes are natural (square coin holes, rope loop)"
-宝飾品,マニラ金・真珠,Manila Gold & Pearls,done,manila_gold_pearls.png,"clean, no issues; elevated fringe% false positive (saturated gold pearl tones)"
+宝飾品,マニラ真珠,Manila Pearls,done,manila_gold_pearls.png,"clean, no issues; elevated fringe% false positive (saturated gold pearl tones) | 旧名: マニラ金・真珠"
 宝飾品,スル真珠,Sulu Pearls,done,sulu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps, shell gaps)"
 宝飾品,ウラル孔雀石（マラカイト）,Ural Malachite,done,ural_malachite.png,"clean, no issues; confirmed stays in 宝飾品 (gem-value price tier, not metal tier)"
-金属製品,アルタイ金・銀,Altai Gold & Silver,done,altai_gold_silver.png,"clean, checked blue/white bg; resized from 85% to 68% bbox; raw ore + birch-bark vessel (differs from worked gold/silver items)"
+金属製品,アルタイ金,Altai Gold,done,altai_gold_silver.png,"clean, checked blue/white bg; resized from 85% to 68% bbox; raw ore + birch-bark vessel (differs from worked gold/silver items) | 旧名: アルタイ金・銀"
 宝飾品,タジク・ラピスラズリ,Badakhshan Lapis Lazuli,done,tajik_lapis.png,"clean, no issues; elevated fringe% false positive (saturated blue/gold tones)"
 宝飾品,パミールルビー（バラスルビー）,Pamir Balas Rubies,done,pamir_ruby.png,"rembg u2netp fixed yellow fringe around bag opening; clean after fix, both red/blue bg checked"
-宝飾品,チベット翡翠・念珠,Tibetan Jade & Mala Beads,done,tibetan_jade_mala.png,"clean, no issues; interior holes natural (gaps between strand loops)"
+宝飾品,チベット翡翠,Tibetan Jade,done,tibetan_jade_mala.png,"clean, no issues; interior holes natural (gaps between strand loops) | 旧名: チベット翡翠・念珠"
 金属製品,スレデツ銀,Sredets Silver,done,sredets_silver.png,"clean, no issues; interior holes are natural (chain loops, cross/chalice gaps)"
 宝飾品,ヴィリニュス琥珀,Vilnius Amber,done,vilnius_amber.png,rembg u2netp fixed yellow fringe around pieces; clean after fix
 宝飾品,アルジェ珊瑚,Algiers Coral,done,algiers_coral.png,"rembg u2netp fixed yellow fringe around net/coral; clean after fix, both red/blue bg checked, coral pore holes natural"
@@ -318,20 +318,20 @@
 宝飾品,合浦真珠,Hepu Pearls,done,hepu_pearls.png,"clean, no issues; interior holes natural (basket weave gaps)"
 織物,西陣織（前身）,Nishijin Silk (Predecessor),done,nishijin_brocade.png,"clean, no issues"
 織物,博多織,Hakata Ori Silk,done,hakata_ori.png,"clean, no issues; large interior gap is natural cord-loop opening"
-織物,江南絹織物（綾錦）,Jiangnan Damask & Brocade,done,jiangnan_damask_brocade.png,"clean, no issues; fringe% false positive (saturated cloth/gold-thread edges); celadon rolled bolt on spool (differs from folded Nishijin/Hakata)"
+織物,江南絹織物,Jiangnan Silk Damask,done,jiangnan_damask_brocade.png,"clean, no issues; fringe% false positive (saturated cloth/gold-thread edges); celadon rolled bolt on spool (differs from folded Nishijin/Hakata) | 旧名: 江南絹織物（綾錦）"
 織物,雲錦（前身）,Yunjin Silk (Predecessor),done,yunjin_silk.png,"clean, checked white/blue bg; resized from 78% to 68% bbox; interior holes natural (sleeve/rack gaps); red-indigo-gold robe on rack"
 織物,蜀錦,Shu Brocade,done,shu_brocade.png,"clean, checked white bg; fringe% false positive (saturated red/blue/yellow); resized from 86% to 68% bbox; 3-panel fan with fringe + shuttle"
-織物,モンゴル羊毛・フェルト,Mongolian Wool & Felt,done,mongolian_wool_felt.png,"clean, checked blue/white bg; resized from 88% to 68% bbox; matte cream/gray/rust raw wool + felt stack + comb (sets wool/felt baseline)"
-織物,ウイグル綿花・綿織物,Uyghur Cotton & Textiles,done,uyghur_cotton_textiles.png,"clean, checked blue bg; resized from 78% to 68% bbox; cotton bolls + sacking bale + blue-striped cloth + spindle (sets cotton baseline)"
-織物,パシュミナ原毛・ヤク毛織物,Pashmina & Yak Wool Textiles,done,pashmina_yak_wool.png,"clean, checked blue bg; resized from 79% to 68% bbox; dusty rose/slate-blue shawl over brown yak blanket roll"
+織物,モンゴル羊毛,Mongolian Wool,done,mongolian_wool_felt.png,"clean, checked blue/white bg; resized from 88% to 68% bbox; matte cream/gray/rust raw wool + felt stack + comb (sets wool/felt baseline) | 旧名: モンゴル羊毛・フェルト"
+織物,ウイグル綿織物,Uyghur Cotton Textiles,done,uyghur_cotton_textiles.png,"clean, checked blue bg; resized from 78% to 68% bbox; cotton bolls + sacking bale + blue-striped cloth + spindle (sets cotton baseline) | 旧名: ウイグル綿花・綿織物"
+織物,パシュミナ毛織物,Pashmina Wool Textiles,done,pashmina_yak_wool.png,"clean, checked blue bg; resized from 79% to 68% bbox; dusty rose/slate-blue shawl over brown yak blanket roll | 旧名: パシュミナ原毛・ヤク毛織物"
 織物,カシュガル絨毯,Kashgar Carpets,done,kashgar_carpets.png,"clean, checked green bg; resized from 94% to 68% bbox; interior holes natural (tassel gaps); rolled carpet w/ beater comb (sets carpet baseline)"
 織物,ブハラ絨毯,Bukhara Rugs,done,bukhara_rugs.png,"clean, checked green bg; resized from 92% to 68% bbox; flat wine-red gul rug w/ folded corner; slightly more photoreal than other icons"
 織物,ムスリン（極細綿布）,Muslin Fine Cotton,done,muslin_fine_cotton.png,"clean, checked dark/parchment bg; bbox already ~69%; sheer ivory gauze on frame stand (sets thin-cotton baseline); interior holes natural"
-織物,タブリーズ絨毯,Tabriz Rugs & Carpets,done,tabriz_rugs_carpets.png,"clean, checked green bg; resized from 99% to 68% bbox (raw fringe tip touched left edge by 3px, invisible after rescale); two stacked rugs w/ folded corner + yarn + knife"
+織物,タブリーズ絨毯,Tabriz Rugs,done,tabriz_rugs_carpets.png,"clean, checked green bg; resized from 99% to 68% bbox (raw fringe tip touched left edge by 3px, invisible after rescale); two stacked rugs w/ folded corner + yarn + knife | 旧名: タブリーズ絨毯"
 織物,モスリン織物,Mosul Muslin Fabric,done,mosul_muslin_fabric.png,"clean, checked blue/dark bg; resized from 97% to 68% bbox; folded muslin in reed basket + clay jar + palm leaves + cord"
 織物,ダマスク織,Damask Fabric,done,damask_fabric.png,"clean, checked red/white bg; resized from 99% to 68% bbox; teal-blue/silver pomegranate damask, dowel roll + pattern block + thread spool"
-織物,エジプト綿・麻布,Egyptian Cotton & Linen,done,egyptian_cotton_linen.png,"clean, checked blue bg + zoom on flax tips; red-ish fringe stat = brown flax tips (false positive); resized from 79% to 68% bbox; flax bundle + folded linen + cotton boll + heddle bar. NOTE: Nile Linen (#50) must avoid flax bundle"
-織物,ビザンツ錦織・紫衣,Byzantine Imperial Silk (Tyrian Purple),done,byzantine_imperial_silk.png,"clean, checked green/white bg; resized from 72% to 68% bbox; Tyrian purple samite on carved stand + murex shell + dye dish; interior gap natural"
+織物,エジプト綿布,Egyptian Cotton,done,egyptian_cotton_linen.png,"clean, checked blue bg + zoom on flax tips; red-ish fringe stat = brown flax tips (false positive); resized from 79% to 68% bbox; flax bundle + folded linen + cotton boll + heddle bar. NOTE: Nile Linen (#50) must avoid flax bundle | 旧名: エジプト綿・麻布"
+織物,ビザンツ錦織,Byzantine Imperial Silk,done,byzantine_imperial_silk.png,"clean, checked green/white bg; resized from 72% to 68% bbox; Tyrian purple samite on carved stand + murex shell + dye dish; interior gap natural | 旧名: ビザンツ錦織・紫衣"
 織物,英国産生毛（ウール）,English Raw Wool,done,english_raw_wool.png,"clean, checked blue/dark bg; resized from 97% to 68% bbox; rolled fleece + wool sack w/ lead seal + shears + balance. NOTE: fleece/wool sack used; avoid for York/Scottish/Irish/Welsh wool"
 織物,アルプハラ絹,Alpujarra Silk (Granada Silk),done,alpujarra_silk.png,"clean, checked blue bg; resized from 81% to 68% bbox; cocoon tray + mulberry leaves/silkworm + raw silk hank + emerald/crimson Nasrid cloth. NOTE: cocoon/raw-silk-hank motif used; avoid for Merv raw silk / Murcia / Prusa etc."
 織物,イスファハーン絨毯,Isfahan Carpets,done,isfahan_carpets.png,"clean, checked blue bg; resized from 93% tall to 68%; hanging prayer rug on rod, mihrab arch + lamp, emerald/rose floral. hanging-rug form used"
@@ -340,26 +340,26 @@
 織物,奥州絹織物,Oshu Silk Fabrics,done,oshu_silk_fabrics.png,"regenerated (1st version loom-dominant, rejected); clean on blue bg; resized 77% to 68%; draped ochre/cream/brown tsumugi stripes + shuttle + 2 thread hanks. draped-striped-cloth form used"
 織物,京染物,Kyo-Zome Dyed Fabrics,done,kyo_zome_dyed_fabrics.png,clean on blue bg; resized 93% to 68%; knotted Yuzen furoshiki bundle (sakura/maple/crane) + brush + 3-colour dye dish. knotted-bundle form used
 織物,伊勢麻布,Ise Linen Cloth,done,ise_linen_cloth.png,clean on blue bg; resized 94% to 68%; bleached hemp cloth draped on bamboo pole + wash tub + thread basket. bamboo-pole drying form used; pole/tub avoid for later linen
-織物,伊勢神宮頒布品,Ise Amulets & Religious Goods,done,ise_amulets_religious_goods.png,"clean on blue bg; resized 92% tall to 68%; white-wood talisman + shide + brocade omamori + paper charm bundle. (item is religious goods, not cloth)"
-織物,高麗麻布・絹,Goryeo Hemp & Silk,done,goryeo_hemp_silk.png,clean on blue bg; resized 79% to 68%; diagonally folded bojagi patchwork (green silk/hemp/indigo/rust/ochre) + hemp thread coil + silk spool. patchwork-triangle form used
-織物,関中綿布・絹織物,Guanzhong Cotton & Silk,done,guanzhong_cotton_silk.png,clean on blue bg; resized 87% to 68%; white diamond cotton + crimson silk w/ gold chrysanthemum in S-waves + iron scissors + 2 skeins. S-wave two-cloth form used; crimson/gold-chrysanthemum used
-織物,汴京絹・刺繡,Bianjing Silk & Embroidery,done,bianjing_silk_embroidery.png,clean on blue bg; resized 79% tall to 68%; embroidery hoop w/ half-stitched bird+peony on ivory silk + needle + 3 silk skeins. hoop form used
-織物,ビシュバリク馬・羊毛,Uyghur Horses & Wool,done,uyghur_horses_wool.png,"GOODS category=織物 weight 0.35 (cloth), horse only in name -> cloth main. wool cloth w/ galloping-horse bands draped on saddle frame + natural yarn skeins; clean on blue bg; resized 98% to 68%. red/indigo/cream horse-motif used"
-織物,カシュガル絹・綿織物,Kashgar Silk & Cotton Textiles,done,kashgar_silk_cotton_textiles.png,clean on blue bg; resized 95% to 68%; accordion-folded ikat silk (red/yellow/indigo/green) + plain cotton w/ indigo selvage. accordion-fold & ikat used
+織物,伊勢神宮頒布品,Ise Amulets,done,ise_amulets_religious_goods.png,"clean on blue bg; resized 92% tall to 68%; white-wood talisman + shide + brocade omamori + paper charm bundle. (item is religious goods, not cloth) | 旧名: 伊勢神宮頒布品"
+織物,高麗麻布,Goryeo Hemp Cloth,done,goryeo_hemp_silk.png,clean on blue bg; resized 79% to 68%; diagonally folded bojagi patchwork (green silk/hemp/indigo/rust/ochre) + hemp thread coil + silk spool. patchwork-triangle form used | 旧名: 高麗麻布・絹
+織物,関中綿布,Guanzhong Cotton Cloth,done,guanzhong_cotton_silk.png,clean on blue bg; resized 87% to 68%; white diamond cotton + crimson silk w/ gold chrysanthemum in S-waves + iron scissors + 2 skeins. S-wave two-cloth form used; crimson/gold-chrysanthemum used | 旧名: 関中綿布・絹織物
+織物,汴京絹,Bianjing Silk,done,bianjing_silk_embroidery.png,clean on blue bg; resized 79% tall to 68%; embroidery hoop w/ half-stitched bird+peony on ivory silk + needle + 3 silk skeins. hoop form used | 旧名: 汴京絹・刺繡
+織物,ビシュバリク羊毛,Uyghur Wool,done,uyghur_horses_wool.png,"GOODS category=織物 weight 0.35 (cloth), horse only in name -> cloth main. wool cloth w/ galloping-horse bands draped on saddle frame + natural yarn skeins; clean on blue bg; resized 98% to 68%. red/indigo/cream horse-motif used | 旧名: ビシュバリク馬・羊毛"
+織物,カシュガル絹織物,Kashgar Silk Textiles,done,kashgar_silk_cotton_textiles.png,clean on blue bg; resized 95% to 68%; accordion-folded ikat silk (red/yellow/indigo/green) + plain cotton w/ indigo selvage. accordion-fold & ikat used | 旧名: カシュガル絹・綿織物
 織物,ホータン絹織物,Khotan Silk Textiles,done,khotan_silk_textiles.png,clean on blue bg; resized 86% to 68%; pale gold-to-jade silk pulled through bronze ring + jade spindle whorl. ring-through form used; pale gold/jade silk used
 織物,安南絹,Annam Silk,done,annam_silk.png,clean on blue bg; resized 94% to 68%; lotus-pink to honey-gold silk wrapped on wooden cloth board + lotus flower/leaf. board-wrap form & lotus used
 織物,ジャワ・バティック（原型）,Javanese Batik Cloth,done,javanese_batik_prototype.png,"clean; transparent bg checked on white; scale 78% -> 68%; mori cloth half indigo-dipped over copper dye vat + copper cap stamp. NOTE: vat is ~half the area (cloth still reads, but borderline; redo if cloth should dominate)"
-織物,チベット羊毛・皮革,Tibetan Wool & Leather,done,tibetan_wool_leather.png,maroon chuba with leather trim + rainbow wool apron + coiled belt
+織物,チベット羊毛,Tibetan Wool,done,tibetan_wool_leather.png,maroon chuba with leather trim + rainbow wool apron + coiled belt | 旧名: チベット羊毛・皮革
 織物,サマルカンド・シルク絨毯,Samarkand Silk Rugs,done,samarkand_silk_rugs.png,upright hanging turquoise silk rug on rod + tassels + gold thread spool
 織物,ソグド綿織物,Sogdian Cotton Textiles,done,sogdian_cotton_textiles.png,"stack of 3 folded cotton bolts, indigo stripes + red check, hemp cord + cotton boll branch"
 織物,ブハラ絨毯（羊毛製）,Bukhara Rugs,done,bukhara_wool_rugs.png,crimson gul wool rug draped over carved chest + raw wool fleece
 織物,ブハラ高級綿布,Bukhara Fine Cotton Cloth,done,bukhara_fine_cotton_cloth.png,"ivory cotton bolt on wooden board, partly unrolled, gold-brown selvedge stripes + indigo dish"
 織物,ブハラ金糸刺繡,Bukhara Gold Embroidery,done,bukhara_gold_embroidery.png,emerald velvet panel w/ gold pomegranate embroidery + 2 gold thread spools + needle
-織物,メルヴ綿花・綿織物,Merv Cotton & Textiles,done,merv_cotton_textiles.png,upright bundle of 6 rolled striped cotton bolts w/ woven band + burlap sack of cotton lint
-織物,メルヴ生糸・絹製品,Merv Raw Silk & Silk Goods,done,merv_raw_silk_goods.png,gold+cream raw silk hanks on carved wood stand + folded pale turquoise sheer silk
-織物,ニシャプール綿織物・絹布,Nishapur Cotton & Silk Fabrics,done,nishapur_cotton_silk.png,"cream cotton + teal-violet silk strips coiled in spiral rosette, turquoise button center"
+織物,メルヴ綿織物,Merv Cotton Textiles,done,merv_cotton_textiles.png,upright bundle of 6 rolled striped cotton bolts w/ woven band + burlap sack of cotton lint | 旧名: メルヴ綿花・綿織物
+織物,メルヴ生糸,Merv Raw Silk,done,merv_raw_silk_goods.png,gold+cream raw silk hanks on carved wood stand + folded pale turquoise sheer silk | 旧名: メルヴ生糸・絹製品
+織物,ニシャプール綿織物,Nishapur Cotton Textiles,done,nishapur_cotton_silk.png,"cream cotton + teal-violet silk strips coiled in spiral rosette, turquoise button center | 旧名: ニシャプール綿織物・絹布"
 織物,パンジャーブ綿織物,Punjab Cotton Textiles,done,punjab_cotton_textiles.png,"block-printed cotton dupatta, red/indigo floral, S-wave diagonal, tasseled ends"
-織物,シンド綿布・錦織,Sindh Cotton & Brocade,done,sindh_cotton_brocade.png,"indigo gold-silver brocade laid flat, corner folded to show cream cotton lining + gold clasp"
+織物,シンド錦織,Sindh Brocade,done,sindh_cotton_brocade.png,"indigo gold-silver brocade laid flat, corner folded to show cream cotton lining + gold clasp | 旧名: シンド綿布・錦織"
 織物,カナウジ綿織物,Kannauj Cotton Fabrics,done,kannauj_cotton_textiles.png,"saffron cotton zigzag-folded stack, maroon+gold border, jasmine sprig"
 織物,キャリコ（極薄木綿布）,Calico Cotton Cloth,done,calico_ultrathin_cotton.png,"sheer white muslin in tall S-sweep, thin indigo hem line (no print; differs from calico_cotton_cloth)"
 織物,ヴィジャヤナガル綿織物,Vijayanagara Cotton Textiles,done,vijayanagara_cotton_textiles.png,"cream cotton folded into triangle, green border w/ gold elephant+temple motifs"
@@ -368,16 +368,16 @@
 織物,アレッポ錦織・絹織物,Aleppo Brocade & Silk,done,aleppo_brocade_silk.png,wine-red gold brocade tasseled cushion-cloth on stack of 3 green/cream striped silk folds
 織物,アンティオキア絹織物,Antioch Silk,done,antioch_silk_textiles.png,"imperial purple silk w/ gold bird roundels, hung from gold ring in fan drape"
 織物,ナイル亜麻布,Nile Linen,done,nile_linen.png,pleated white linen fan w/ gold border + blue lotus
-織物,チェチア帽・フェズ帽,Fez Hat / Chechia,done,fez_chechia_hats.png,red fez w/ black tassel + crimson chechia w/ blue tassel (hats are the item)
-織物,マラケシュ皮革・サハラウール,Marrakesh Leather & Sahara Wool,done,marrakesh_leather_sahara_wool.png,sand/black Berber diamond wool blanket folded + small tangerine leather pouf
+織物,フェズ帽,Fez Hat,done,fez_chechia_hats.png,red fez w/ black tassel + crimson chechia w/ blue tassel (hats are the item) | 旧名: チェチア帽・フェズ帽
+織物,マラケシュ・ウール,Marrakesh Wool,done,marrakesh_leather_sahara_wool.png,sand/black Berber diamond wool blanket folded + small tangerine leather pouf | 旧名: マラケシュ皮革・サハラウール
 織物,ペルシア絹織物,Persian Silk Fabrics,done,persian_silk_fabrics.png,"turquoise silk triangular shawl w/ gold+vermilion boteh paisley, fringe"
 織物,テヘラン木綿,Tehran Cotton,done,tehran_cotton.png,"3 folded cotton cloths standing upright: indigo check, madder stripe, plain cream"
 織物,カラムカール（ペルシア更紗）,Kalamkari Printed Cotton,done,kalamkari_printed_cotton.png,"tree-of-life kalamkari panel, madder/indigo/mustard, lower edge curled into small roll"
-織物,タブリーズ絹織物・金糸織,Tabriz Silk & Gold Brocade,done,tabriz_silk_gold_brocade.png,"ruby silk sash w/ gold arabesque, emerald edge stripes, S-fold + gold fringe"
+織物,タブリーズ絹織物,Tabriz Silk,done,tabriz_silk_gold_brocade.png,"ruby silk sash w/ gold arabesque, emerald edge stripes, S-fold + gold fringe | 旧名: タブリーズ絹織物・金糸織"
 織物,テッサロニキ絹織物,Thessaloniki Silk,done,thessaloniki_silk.png,"3 olive-green/cream silk rolls pyramid-stacked, hemp cord, small cross-circle pattern"
 織物,ヴェネツィア・ヴェルヴェット,Venetian Velvet,done,venetian_velvet.png,"crimson pomegranate-pattern velvet heap, gold backing corner turned, gold edging + Venetian glass beads"
-織物,ジェノヴァ高級絹・ヴェルヴェット,Genoese Velvet & Silk,done,genoese_velvet_silk.png,sapphire velvet w/ gold scroll border crossed X with ivory silk satin
-織物,ミラノ羊毛・絹織物,Milanese Wool & Silk,done,milanese_wool_silk.png,"teal-grey wool quarter-folded block w/ cream-silver silk diamond lattice; wool-dominant, silk gloss weak (borderline)"
+織物,ジェノヴァ・ヴェルヴェット,Genoese Velvet,done,genoese_velvet_silk.png,sapphire velvet w/ gold scroll border crossed X with ivory silk satin | 旧名: ジェノヴァ高級絹・ヴェルヴェット
+織物,ミラノ羊毛織物,Milanese Wool Cloth,done,milanese_wool_silk.png,"teal-grey wool quarter-folded block w/ cream-silver silk diamond lattice; wool-dominant, silk gloss weak (borderline) | 旧名: ミラノ羊毛・絹織物"
 織物,フィレンツェ毛織物（ルカルタ）,Florentine Woolen Cloth,done,florentine_wool_lucarta.png,"madder-red wool bolt on wooden board, ochre selvage, raw wool tuft; wool-dominant"
 織物,パレルモ絹織物,Palermo Silk,done,palermo_silk.png,"emerald silk band w/ gold facing-lions + tree-of-life (Norman-Sicilian), ivory silk hank; silk gloss clear"
 織物,パリ高級服飾,Paris Fine Garments,done,paris_fine_garments.png,"royal-blue bliaut tunic on wooden crossbar, gold embroidered neck/cuffs, leather belt (finished garment is the item)"
@@ -385,33 +385,33 @@
 織物,ガン毛織物,Ghent Cloth,done,ghent_cloth.png,"green/red/cream striped wool stretched on wooden tenter frame; frame large, silhouette slightly deck-chair-like (borderline)"
 織物,英国ラシャ布,English Broadcloth,done,english_broadcloth.png,"upright oatmeal undyed broadcloth roll, forest-green selvage stripe, loose end draped, dried teasel"
 織物,ヨーク羊毛,York Wool,done,york_wool.png,"folded heather grey-brown tweedy wool cloth w/ cream+green selvage, drop spindle w/ yarn, raw wool tuft"
-織物,ケルン織物・ラシャ布,Cologne Woolen Cloth,done,cologne_woolen_cloth.png,"mustard-ochre twill broadcloth bale, 2 leather straps w/ wooden toggles + carry loop, turned-back corner"
-織物,ナポリ糸・絹布,Neapolitan Silk & Thread,missing,,
-織物,ラグーサ水夫用ロープ・帆布,Ragusa Ropes & Canvas,missing,,
+織物,ケルン・ラシャ布,Cologne Broadcloth,done,cologne_woolen_cloth.png,"mustard-ochre twill broadcloth bale, 2 leather straps w/ wooden toggles + carry loop, turned-back corner | 旧名: ケルン織物・ラシャ布"
+織物,ナポリ絹布,Neapolitan Silk,missing,,旧名: ナポリ糸・絹布
+織物,ラグーサ帆布,Ragusa Canvas,missing,,旧名: ラグーサ水夫用ロープ・帆布
 織物,キプロス綿花,Cyprus Cotton,missing,,
 織物,モレア（ペロポネソス）絹,Morea Silk,missing,,
-織物,リガ・ヘンプ（大麻繊維）,Riga Hemp & Flax,missing,,
-織物,アイスランド羊毛・干し魚,Icelandic Wool & Dried Fish,done,icelandic_wool_dried_fish.png,"cream/charcoal/grey diamond-band wool cloth partly unrolled, small stockfish tied w/ hemp cord (cloth main)"
-織物,スコットランド生毛・塩,Scottish Wool & Salt,done,scottish_wool_salt.png,red/green/navy tartan wool plaid folded w/ fringe + small salt sack (cloth main)
-織物,アイルランド牛革・羊毛,Irish Hides & Wool,done,irish_hides_wool.png,"cream Aran cable-knit wool stack (main) + small tanned cowhide roll w/ cord; wool-dominant, leather ~20%"
-織物,ウェールズ板岩・羊毛,Welsh Slate & Wool,done,welsh_slate_wool.png,"slate-blue/red/cream geometric wool blanket folded w/ fringe, no accessory (single-name policy)"
-織物,ブルターニュ麻布,Breton Canvas & Linen,missing,,
+織物,リガ・ヘンプ,Riga Hemp,missing,,旧名: リガ・ヘンプ（大麻繊維）
+織物,アイスランド羊毛,Icelandic Wool,done,icelandic_wool_dried_fish.png,"cream/charcoal/grey diamond-band wool cloth partly unrolled, small stockfish tied w/ hemp cord (cloth main) | 旧名: アイスランド羊毛・干し魚"
+織物,スコットランド羊毛,Scottish Wool,done,scottish_wool_salt.png,red/green/navy tartan wool plaid folded w/ fringe + small salt sack (cloth main) | 旧名: スコットランド生毛・塩
+織物,アイルランド羊毛,Irish Wool,done,irish_hides_wool.png,"cream Aran cable-knit wool stack (main) + small tanned cowhide roll w/ cord; wool-dominant, leather ~20% | 旧名: アイルランド牛革・羊毛"
+織物,ウェールズ羊毛,Welsh Wool,done,welsh_slate_wool.png,"slate-blue/red/cream geometric wool blanket folded w/ fringe, no accessory (single-name policy) | 旧名: ウェールズ板岩・羊毛"
+織物,ブルターニュ麻布,Breton Linen,missing,,旧名: ブルターニュ麻布
 織物,ブラバント・レース,Brabant Lace,missing,,
-織物,ムルシア絹・果実,Murcia Silk & Fruits,missing,,
-織物,ハウサ革・藍染布,Hausa Leather & Indigo Cloth,missing,,
+織物,ムルシア絹,Murcia Silk,missing,,旧名: ムルシア絹・果実
+織物,ハウサ藍染布,Hausa Indigo Cloth,missing,,旧名: ハウサ革・藍染布
 織物,マダガスカル・ラフィア繊維,Madagascar Raffia,missing,,
 織物,アッサム絹（ムガ絹）,Assam Muga Silk,missing,,
 織物,ベンガル・ムスリン,Bengal Muslin,missing,,
-織物,マドゥライ綿布・花飾,Madurai Cotton Textiles,missing,,
+織物,マドゥライ綿布,Madurai Cotton Cloth,missing,,旧名: マドゥライ綿布・花飾
 織物,フィリピン麻（アバカ）,Abaca Hemp,missing,,
 織物,琉球紅型（前身）,Ryukyu Bingata Textiles,missing,,
-織物,カザフ羊毛・家畜,Kazakh Wool & Livestock,missing,,
-織物,キルギス馬・絨毯,Kyrgyz Horses & Rugs,missing,,
+織物,カザフ羊毛,Kazakh Wool,missing,,旧名: カザフ羊毛・家畜
+織物,キルギス絨毯,Kyrgyz Rugs,missing,,旧名: キルギス馬・絨毯
 織物,ア富汗（アフガン）絨毯,Afghan Carpets,missing,,
 織物,ブータン手織物,Bhutanese Handwoven Textiles,missing,,
-織物,ラダック羊毛・ヤク,Ladakh Wool & Yaks,missing,,
+織物,ラダック羊毛,Ladakh Wool,missing,,旧名: ラダック羊毛・ヤク
 織物,山東絹（紬絹）,Shandong Wild Silk,missing,,
-織物,黒竜江クロテン・魚皮衣,Heilongjiang Sable & Fish-skin Cloth,missing,,
+織物,黒竜江クロテン,Heilongjiang Sable,missing,,旧名: 黒竜江クロテン・魚皮衣
 織物,ゴルゴナク羊毛,Golgonaki Wool,missing,,
 織物,プルサ絹,Prusa Silk,missing,,
 織物,ニケーア絹,Nicaea Silk,missing,,
