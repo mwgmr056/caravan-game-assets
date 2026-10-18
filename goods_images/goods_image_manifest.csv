@@ -127,12 +127,12 @@
 陶磁器,官窯陶磁器,Official Kiln Ceramics,done,official_kiln_ceramics.png,
 陶磁器,昇龍白磁,Thang Long White Porcelain,done,thang_long_porcelain.png,旧名: 昇龍白磁・青花陶磁器
 陶磁器,徳化窯白磁,Dehua White Porcelain,done,dehua_white_porcelain.png,
-陶磁器,サンカローク焼,Sankhalok Ceramic Ware,done,sankhalok_ceramic_ware.png,
+陶磁器,サンカローク青磁,Sankhalok Celadon,done,sankhalok_ceramic_ware.png,旧名: サンカローク焼
 陶磁器,備前焼（古備前）,Bizen Ware Ceramics,done,bizen_ware_ceramics.png,
 陶磁器,広州石湾陶器,Guangzhou Ceramics,done,guangzhou_ceramics.png,
 陶磁器,景徳鎮青花白磁,Jingdezhen Blue & White Porcelain,done,jingdezhen_blue_white_porcelain.png,
 陶磁器,景徳鎮青磁,Jingdezhen Celadon,done,jingdezhen_porcelains.png,旧名: 景徳鎮青磁・白磁
-陶磁器,サンカローク焼（スンコロク）,Sankhalok Ceramic Ware,done,sankhalok_covered_box.png,
+陶磁器,サンカローク鉄絵,Sankhalok Iron-Painted Ware,done,sankhalok_covered_box.png,旧名: サンカローク焼（スンコロク）
 陶磁器,マラッカ中継陶磁器,Malacca Porcelain,done,malacca_silk_porcelain.png,旧名: マラッカ中継絹・陶磁器
 陶磁器,ニシャプール彩文陶器,Nishapur Painted Ceramics,done,nishapur_painted_ceramics.png,
 陶磁器,シンド釉薬陶器,Sindh Glazed Pottery,done,sindh_glazed_tiles.png,旧名: シンド釉薬陶器
@@ -216,7 +216,7 @@
 香辛料・香料,広州沈香,Nanhai Agarwood,done,guangzhou_agarwood_borneol.png,"used raw image alpha channel directly, bypassing rembg (rembg introduced red blotches on the translucent borneol crystals) | 旧名: 広州沈香・龍脳"
 香辛料・香料,チャンパ沈香（伽羅）,Champa Agarwood (Calambac),done,champa_agarwood_kyara.png,
 香辛料・香料,スマトラ胡椒,Sumatran Pepper,done,sumatra_pepper.png,
-香辛料・香料,アタール（香水）,Kannauj Attar Perfume,done,attar_perfume.png,
+香辛料・香料,白檀アタール,Sandalwood Attar,done,attar_perfume.png,旧名: アタール（香水）
 香辛料・香料,ケーララ黒胡椒,Kerala Black Pepper,done,kerala_black_pepper.png,"elevated fringe% (3.06%) is a false positive from the loosely-woven jute burlap texture, confirmed clean on visual check"
 香辛料・香料,セイロンシナモン,Ceylon Cinnamon,done,ceylon_cinnamon.png,"elevated fringe% (9.10%) is a false positive from the warm tan-brown cinnamon color matching the red-saturation heuristic, confirmed clean on visual check"
 香辛料・香料,ペルシア・サフラン,Persian Saffron,done,persian_saffron.png,"used raw image alpha channel directly, bypassing rembg (rembg faded some scattered saffron threads to near-transparent); verified with blue check background since object color is red/crimson"
@@ -229,7 +229,7 @@
 香辛料・香料,ブルネイ樟脳,Brunei Camphor,done,brunei_camphor.png,
 香辛料・香料,ニシャプール・サフラン,Nishapur Saffron,done,nishapur_saffron.png,
 香辛料・香料,デリー香水,Delhi Perfumes,done,delhi_perfume_rosewater.png,旧名: デリー香水・ローズウォーター
-香辛料・香料,アタール（カナウジ香水）,Kannauj Attar Perfume (Kannauj),done,kannauj_attar.png,
+香辛料・香料,ローズ・アタール,Rose Attar,done,kannauj_attar.png,旧名: アタール（カナウジ香水）
 香辛料・香料,カナウジ・ローズウォーター,Kannauj Rosewater,done,kannauj_rosewater.png,
 香辛料・香料,カナウジ花卉製品,Kannauj Floral Products,done,kannauj_florals.png,
 香辛料・香料,カルカッタ（カリカット）黒胡椒,Calicut Black Pepper,done,calicut_pepper.png,
@@ -325,18 +325,18 @@
 織物,ウイグル綿織物,Uyghur Cotton Textiles,done,uyghur_cotton_textiles.png,"clean, checked blue bg; resized from 78% to 68% bbox; cotton bolls + sacking bale + blue-striped cloth + spindle (sets cotton baseline) | 旧名: ウイグル綿花・綿織物"
 織物,パシュミナ毛織物,Pashmina Wool Textiles,done,pashmina_yak_wool.png,"clean, checked blue bg; resized from 79% to 68% bbox; dusty rose/slate-blue shawl over brown yak blanket roll | 旧名: パシュミナ原毛・ヤク毛織物"
 織物,カシュガル絨毯,Kashgar Carpets,done,kashgar_carpets.png,"clean, checked green bg; resized from 94% to 68% bbox; interior holes natural (tassel gaps); rolled carpet w/ beater comb (sets carpet baseline)"
-織物,ブハラ絨毯,Bukhara Rugs,done,bukhara_rugs.png,"clean, checked green bg; resized from 92% to 68% bbox; flat wine-red gul rug w/ folded corner; slightly more photoreal than other icons"
+織物,ブハラ・ギュル絨毯,Bukhara Gul Rugs,done,bukhara_rugs.png,"clean, checked green bg; resized from 92% to 68% bbox; flat wine-red gul rug w/ folded corner; slightly more photoreal than other icons | 旧名: ブハラ絨毯"
 織物,ムスリン（極細綿布）,Muslin Fine Cotton,done,muslin_fine_cotton.png,"clean, checked dark/parchment bg; bbox already ~69%; sheer ivory gauze on frame stand (sets thin-cotton baseline); interior holes natural"
 織物,タブリーズ絨毯,Tabriz Rugs,done,tabriz_rugs_carpets.png,"clean, checked green bg; resized from 99% to 68% bbox (raw fringe tip touched left edge by 3px, invisible after rescale); two stacked rugs w/ folded corner + yarn + knife | 旧名: タブリーズ絨毯"
-織物,モスリン織物,Mosul Muslin Fabric,done,mosul_muslin_fabric.png,"clean, checked blue/dark bg; resized from 97% to 68% bbox; folded muslin in reed basket + clay jar + palm leaves + cord"
+織物,モスリン織物,Mosul Muslin Fabric,done,mosul_muslin_fabric.png,"clean, checked blue/dark bg; resized from 97% to 68% bbox; folded muslin in reed basket + clay jar + palm leaves + cord | 旧名: モスリン織物"
 織物,ダマスク織,Damask Fabric,done,damask_fabric.png,"clean, checked red/white bg; resized from 99% to 68% bbox; teal-blue/silver pomegranate damask, dowel roll + pattern block + thread spool"
 織物,エジプト綿布,Egyptian Cotton,done,egyptian_cotton_linen.png,"clean, checked blue bg + zoom on flax tips; red-ish fringe stat = brown flax tips (false positive); resized from 79% to 68% bbox; flax bundle + folded linen + cotton boll + heddle bar. NOTE: Nile Linen (#50) must avoid flax bundle | 旧名: エジプト綿・麻布"
 織物,ビザンツ錦織,Byzantine Imperial Silk,done,byzantine_imperial_silk.png,"clean, checked green/white bg; resized from 72% to 68% bbox; Tyrian purple samite on carved stand + murex shell + dye dish; interior gap natural | 旧名: ビザンツ錦織・紫衣"
 織物,英国産生毛（ウール）,English Raw Wool,done,english_raw_wool.png,"clean, checked blue/dark bg; resized from 97% to 68% bbox; rolled fleece + wool sack w/ lead seal + shears + balance. NOTE: fleece/wool sack used; avoid for York/Scottish/Irish/Welsh wool"
 織物,アルプハラ絹,Alpujarra Silk (Granada Silk),done,alpujarra_silk.png,"clean, checked blue bg; resized from 81% to 68% bbox; cocoon tray + mulberry leaves/silkworm + raw silk hank + emerald/crimson Nasrid cloth. NOTE: cocoon/raw-silk-hank motif used; avoid for Merv raw silk / Murcia / Prusa etc."
 織物,イスファハーン絨毯,Isfahan Carpets,done,isfahan_carpets.png,"clean, checked blue bg; resized from 93% tall to 68%; hanging prayer rug on rod, mihrab arch + lamp, emerald/rose floral. hanging-rug form used"
-織物,キャリコ（木綿布）,Calico Cotton Cloth,done,calico_cotton_cloth.png,"clean, checked blue bg; resized from 95% wide to 68%; 3 fanned block-printed cotton sheets (red/indigo florals) + wooden printing block. block-print + fanned sheets used; Batik should be wax-resist/tjanting"
-織物,ジャワ・バティック,Javanese Batik Cloth,done,javanese_batik_cloth.png,"clean, checked white bg; resized from 96% wide to 68%; indigo/brown parang+kawung batik, wax-resist corner, canting + copper wax pot. canting/wax pot used -> Batik(原型) must avoid (use e.g. dye vat / cap stamp / folded raw white cloth)"
+織物,キャリコ更紗,Printed Calico,done,calico_cotton_cloth.png,"clean, checked blue bg; resized from 95% wide to 68%; 3 fanned block-printed cotton sheets (red/indigo florals) + wooden printing block. block-print + fanned sheets used; Batik should be wax-resist/tjanting | 旧名: キャリコ（木綿布）"
+織物,ジャワ・バティック,Javanese Batik Cloth,done,javanese_batik_cloth.png,"clean, checked white bg; resized from 96% wide to 68%; indigo/brown parang+kawung batik, wax-resist corner, canting + copper wax pot. canting/wax pot used -> Batik(原型) must avoid (use e.g. dye vat / cap stamp / folded raw white cloth) | 旧名: ジャワ・バティック"
 織物,奥州絹織物,Oshu Silk Fabrics,done,oshu_silk_fabrics.png,"regenerated (1st version loom-dominant, rejected); clean on blue bg; resized 77% to 68%; draped ochre/cream/brown tsumugi stripes + shuttle + 2 thread hanks. draped-striped-cloth form used"
 織物,京染物,Kyo-Zome Dyed Fabrics,done,kyo_zome_dyed_fabrics.png,clean on blue bg; resized 93% to 68%; knotted Yuzen furoshiki bundle (sakura/maple/crane) + brush + 3-colour dye dish. knotted-bundle form used
 織物,伊勢麻布,Ise Linen Cloth,done,ise_linen_cloth.png,clean on blue bg; resized 94% to 68%; bleached hemp cloth draped on bamboo pole + wash tub + thread basket. bamboo-pole drying form used; pole/tub avoid for later linen
@@ -348,11 +348,11 @@
 織物,カシュガル絹織物,Kashgar Silk Textiles,done,kashgar_silk_cotton_textiles.png,clean on blue bg; resized 95% to 68%; accordion-folded ikat silk (red/yellow/indigo/green) + plain cotton w/ indigo selvage. accordion-fold & ikat used | 旧名: カシュガル絹・綿織物
 織物,ホータン絹織物,Khotan Silk Textiles,done,khotan_silk_textiles.png,clean on blue bg; resized 86% to 68%; pale gold-to-jade silk pulled through bronze ring + jade spindle whorl. ring-through form used; pale gold/jade silk used
 織物,安南絹,Annam Silk,done,annam_silk.png,clean on blue bg; resized 94% to 68%; lotus-pink to honey-gold silk wrapped on wooden cloth board + lotus flower/leaf. board-wrap form & lotus used
-織物,ジャワ・バティック（原型）,Javanese Batik Cloth,done,javanese_batik_prototype.png,"clean; transparent bg checked on white; scale 78% -> 68%; mori cloth half indigo-dipped over copper dye vat + copper cap stamp. NOTE: vat is ~half the area (cloth still reads, but borderline; redo if cloth should dominate)"
+織物,ジャワ・バティック原布,Javanese Batik Base Cloth,done,javanese_batik_prototype.png,"clean; transparent bg checked on white; scale 78% -> 68%; mori cloth half indigo-dipped over copper dye vat + copper cap stamp. NOTE: vat is ~half the area (cloth still reads, but borderline; redo if cloth should dominate) | 旧名: ジャワ・バティック（原型）"
 織物,チベット羊毛,Tibetan Wool,done,tibetan_wool_leather.png,maroon chuba with leather trim + rainbow wool apron + coiled belt | 旧名: チベット羊毛・皮革
 織物,サマルカンド・シルク絨毯,Samarkand Silk Rugs,done,samarkand_silk_rugs.png,upright hanging turquoise silk rug on rod + tassels + gold thread spool
 織物,ソグド綿織物,Sogdian Cotton Textiles,done,sogdian_cotton_textiles.png,"stack of 3 folded cotton bolts, indigo stripes + red check, hemp cord + cotton boll branch"
-織物,ブハラ絨毯（羊毛製）,Bukhara Rugs,done,bukhara_wool_rugs.png,crimson gul wool rug draped over carved chest + raw wool fleece
+織物,ブハラ羊毛絨毯,Bukhara Wool Rugs,done,bukhara_wool_rugs.png,crimson gul wool rug draped over carved chest + raw wool fleece | 旧名: ブハラ絨毯（羊毛製）
 織物,ブハラ高級綿布,Bukhara Fine Cotton Cloth,done,bukhara_fine_cotton_cloth.png,"ivory cotton bolt on wooden board, partly unrolled, gold-brown selvedge stripes + indigo dish"
 織物,ブハラ金糸刺繡,Bukhara Gold Embroidery,done,bukhara_gold_embroidery.png,emerald velvet panel w/ gold pomegranate embroidery + 2 gold thread spools + needle
 織物,メルヴ綿織物,Merv Cotton Textiles,done,merv_cotton_textiles.png,upright bundle of 6 rolled striped cotton bolts w/ woven band + burlap sack of cotton lint | 旧名: メルヴ綿花・綿織物
@@ -361,10 +361,10 @@
 織物,パンジャーブ綿織物,Punjab Cotton Textiles,done,punjab_cotton_textiles.png,"block-printed cotton dupatta, red/indigo floral, S-wave diagonal, tasseled ends"
 織物,シンド錦織,Sindh Brocade,done,sindh_cotton_brocade.png,"indigo gold-silver brocade laid flat, corner folded to show cream cotton lining + gold clasp | 旧名: シンド綿布・錦織"
 織物,カナウジ綿織物,Kannauj Cotton Fabrics,done,kannauj_cotton_textiles.png,"saffron cotton zigzag-folded stack, maroon+gold border, jasmine sprig"
-織物,キャリコ（極薄木綿布）,Calico Cotton Cloth,done,calico_ultrathin_cotton.png,"sheer white muslin in tall S-sweep, thin indigo hem line (no print; differs from calico_cotton_cloth)"
+織物,キャリコ薄布,Thin Calico,done,calico_ultrathin_cotton.png,"sheer white muslin in tall S-sweep, thin indigo hem line (no print; differs from calico_cotton_cloth) | 旧名: キャリコ（極薄木綿布）"
 織物,ヴィジャヤナガル綿織物,Vijayanagara Cotton Textiles,done,vijayanagara_cotton_textiles.png,"cream cotton folded into triangle, green border w/ gold elephant+temple motifs"
 織物,アタビ布（バグダード絹織物）,Attabi Silk (Taffeta),done,attabi_silk_taffeta.png,"glossy amber+indigo diagonal-striped taffeta, short wide roll with free end"
-織物,モスリン織物（極細木綿布）,Mosul Muslin Fabric,done,muslin_fine_cotton.png,"blush-cream sheer muslin gathered into puffed bundle, gold dots + gold cord"
+織物,極細モスリン,Superfine Mosul Muslin,done,muslin_fine_cotton.png,"blush-cream sheer muslin gathered into puffed bundle, gold dots + gold cord | 旧名: モスリン織物（極細木綿布）"
 織物,アレッポ錦織・絹織物,Aleppo Brocade & Silk,done,aleppo_brocade_silk.png,wine-red gold brocade tasseled cushion-cloth on stack of 3 green/cream striped silk folds
 織物,アンティオキア絹織物,Antioch Silk,done,antioch_silk_textiles.png,"imperial purple silk w/ gold bird roundels, hung from gold ring in fan drape"
 織物,ナイル亜麻布,Nile Linen,done,nile_linen.png,pleated white linen fan w/ gold border + blue lotus
