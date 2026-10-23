@@ -390,7 +390,7 @@
 織物,ラグーサ帆布,Ragusa Canvas,done,ragusa_canvas.png,"旧名: ラグーサ水夫用ロープ・帆布 | sun-bleached coarse flax sailcloth folded stack, grey-blue stripe, brass grommets; beige similar to English broadcloth but coarse weave/grommets differ"
 織物,キプロス綿花,Cyprus Cotton,done,cyprus_cotton.png,"raw cotton plant bundle w/ open bolls, leaves, cord + loose cotton ball (raw fibre, no woven cloth)"
 織物,モレア（ペロポネソス）絹,Morea Silk,done,morea_silk.png,"wicker basket of silk cocoons + ivory/saffron raw-silk skeins + mulberry leaves (raw silk, no woven cloth)"
-織物,リガ・ヘンプ,Riga Hemp,missing,,旧名: リガ・ヘンプ（大麻繊維）
+織物,リガ・ヘンプ,Riga Hemp,done,riga_hemp.png,旧名: リガ・ヘンプ（大麻繊維） | golden-grey dressed hemp fibre hank bound w/ twine + dry stalks (raw fibre; slightly hair-like silhouette)
 織物,アイスランド羊毛,Icelandic Wool,done,icelandic_wool_dried_fish.png,"cream/charcoal/grey diamond-band wool cloth partly unrolled, small stockfish tied w/ hemp cord (cloth main) | 旧名: アイスランド羊毛・干し魚"
 織物,スコットランド羊毛,Scottish Wool,done,scottish_wool_salt.png,red/green/navy tartan wool plaid folded w/ fringe + small salt sack (cloth main) | 旧名: スコットランド生毛・塩
 織物,アイルランド羊毛,Irish Wool,done,irish_hides_wool.png,"cream Aran cable-knit wool stack (main) + small tanned cowhide roll w/ cord; wool-dominant, leather ~20% | 旧名: アイルランド牛革・羊毛"
